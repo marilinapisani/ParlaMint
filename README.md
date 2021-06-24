@@ -1,7 +1,8 @@
 # ParlaMint-ES-CT
 This unannotated corpus is compiled with the parliamentary sessions of the Parliament of Catalonia between the years 2015 and 2020. 
 
-This corpus follows the TEI format proposed by the CLARIN ParlaMint project. It is formed by 211 parliamentary transcriptions with the metadata of all the members of the parliament and their political party during the covered years. 
+This corpus follows the [Parla-CLARIN recommendations](https://clarin-eric.github.io/parla-clarin/) proposed by the [CLARIN ParlaMint
+project](https://www.clarin.eu/content/parlamint-towards-comparable-parliamentary-corpora). It is formed by 211 parliamentary transcriptions with the metadata of all the members of the parliament and their political party during the covered years. 
 
 It contains a total of 11.7 million words in 39 585 utterances.
 
