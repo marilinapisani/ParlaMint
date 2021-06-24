@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:lang="ca"
+     xml:id="ParlaMint-ES-CT_2017-08-25">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="ca">Corpus Parlamentari en català ParlaMint-ES-CT_2017-08-25[ParlaMint]</title>
+            <title type="main" xml:lang="en">Catalan parliamentary corpus ParlaMint-ES-CT_2017-08-25[ParlaMint]</title>
+            <title type="sub" xml:lang="ca">Sessió del ple núm. 41</title>
+            <title type="sub" xml:lang="en">Plenary session 41</title>
+            <meeting n="41" corresp="#PC" ana="#parla.session">Sessió del ple núm. 41</meeting>
+            <meeting n="11" corresp="#PC" ana="#parla.term #PC.11">Legislatura XI</meeting>
+            <respStmt>
+               <persName>Iván Antiba Cartazo</persName>
+               <resp xml:lang="en">Data retrieval, conversion to XML and conversion to ParlaMint TEI</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="ca">Cap financiació  </orgName>
+               <orgName xml:lang="en">No funder</orgName>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>1.0</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="2" xml:lang="ca">2 intervencions</measure>
+            <measure unit="speeches" quantity="2" xml:lang="en">2 speeches</measure>
+            <measure quantity="971" unit="words" xml:lang="ca">971 paraules</measure>
+            <measure quantity="971" unit="words" xml:lang="en">971 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="ca">Infraestructura d'investigació CLARIN</orgName>
+               <orgName xml:lang="en">CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1388</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="ca">Aquest treball es troba protegit per la llicència <ref target="https://creativecommons.org/licenses/by/4.0/">Atribució 4.0 Internacional</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2021">2021</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title xml:lang="ca" type="main">Parlament de Catalunya diaris de sessions de parlamentaries</title>
+               <title type="main" xml:lang="en">Parliament of Catalonia daily sessions </title>
+               <idno type="URI">https://www.parlament.cat/</idno>
+               <date when="2017-08-25">2017-08-25</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="ca">
+               <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+            <p xml:lang="en">
+               <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN recommendations</ref> and covering the COVID-19 pandemic from November 2019 as well as the earlier period from 2015 to serve as a reference corpus; (2) process the corpora linguistically to add Universal Dependencies syntactic structures and Named Entity annotation; (3) make the corpora available through concordancers and Parlameter; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="pb" occurs="0"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="head" occurs="0"/>
+               <tagUsage gi="note" occurs="0"/>
+               <tagUsage gi="u" occurs="2"/>
+               <tagUsage gi="seg" occurs="19"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="address">Parc de la Ciutadella, s/n 08003</name>
+               <name type="city">Barcelona</name>
+               <name type="country" key="ES">Spain</name>
+               <date when="2015-10-26">26.10.2015</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div type="debateSection">
+            <u xml:id="ParlaMint-ES-CT_2017-08-25.u1" who="#ForcadellCarme" ana="chairperson"/>
+            <u xml:id="ParlaMint-ES-CT_2017-08-25.u2"
+               who="#ForcadellCarme"
+               ana="#chairperson" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.0">Comença la sessió. Bon dia a totes i tots.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.1">Celebrem avui un ple específic i solemne que tant de bo no s’hagués hagut de celebrar mai, un ple per condemnar els atemptats de Barcelona i Cambrils del passat 17 d’agost, de record a les víctimes i a favor de la pau.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.2">El Parlament, reflex del poble de Catalunya, plural i divers, s’uneix i se suma al dolor de les víctimes i les seves famílies, i es conjura per treballar, amb més força que mai, per evitar que fets com els succeïts no es tornin a repetir.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.3">Si em permeten, abans de procedir a la lectura de la declaració del Parlament de Catalunya, voldria saludar les autoritats que avui ens acompanyen: alcaldessa de Barcelona i alcaldes d’altres municipis, cònsols generals, representants i membres dels cossos de seguretat, de bombers i dels serveis d’emergències; gràcies per ser aquí amb nosaltres.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.4">Procedirem ara a la lectura de la declaració.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.5">«Declaració del Parlament de Catalunya de condemna dels atemptats de Barcelona i Cambrils del 17 d'agost.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.6">»El Parlament de Catalunya condemna unànimement els brutals atemptats comesos a Barcelona i Cambrils el passat 17 d’agost. El Parlament expressa el seu condol per les víctimes mortals i mostra tot el seu suport als amics i familiars, i vol així mateix manifestar el desig que els ferits es puguin recuperar d’una manera ràpida i efectiva de les seqüeles físiques i psicològiques dels atemptats.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.7">»El dolor provocat per aquestes accions terroristes de violència extrema ha colpit tot Catalunya. El Parlament, però, vol posar en valor la resposta que ha donat la societat catalana. Davant d’una situació d’extrema gravetat, la ciutadania, les institucions i els serveis públics del país han actuat d’una manera exemplar.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.8">»Cal remarcar, en aquest sentit, la tasca excel·lent dels serveis d’emergències i d’urgències mèdiques, i també la dels cossos de seguretat. L’eficàcia de l’actuació policial ha permès controlar amb gran rapidesa l’amenaça que representaven els autors dels atemptats, i les informacions i les comunicacions oficials facilitades per les institucions i els serveis públics han ofert a la ciutadania la serenitat necessària en un context tan traumàtic.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.9">»El Parlament vol destacar d’una manera especial la reacció cívica de la societat catalana, que ha mostrat des del primer moment un immens esperit solidari, i ha sabut respondre majoritàriament amb la maduresa necessària per a saber distingir entre la utilització espúria de les religions com a font d’extremisme violent i la pacífica convivència de les diverses identitats religioses presents a Catalunya.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.10">»L'execrable objectiu últim dels terroristes és generar por i odi a la societat contra la qual atempten i aniquilar valors essencials com la llibertat o el respecte a la diferència. És per això que és tan important la resposta serena, solidària i pacífica que la societat catalana ha donat davant dels atemptats: la resposta d’una societat democràticament madura i cohesionada entorn de la pluralitat i la llibertat.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.11">»El Parlament fa una crida a continuar treballant per la democràcia i la cohesió social al nostre país. La pluralitat només es pot defensar des de la democràcia, i la democràcia és la garantia per a viure en una societat plural i diversa i, alhora, cohesionada.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.12">»El Parlament agraeix totes les mostres internacionals de solidaritat rebudes. Cal tenir ben present que els atemptats de Barcelona i Cambrils s’afegeixen als que en els darrers anys han patit altres ciutats d’arreu del món, d’una manera especialment sagnant i constant en les zones en conflicte i en països en situació d’extrema pobresa. En aquest sentit, el Parlament referma el seu compromís amb la cultura de la pau, recollit en l’Estatut, reiterat en diverses declaracions institucionals i emparat, entre d’altres lleis, per la Llei de foment de la pau. Aquest compromís obliga a aprofundir en valors com la tolerància i el diàleg, a fer una tasca de prevenció dels extremismes violents i a promoure activament una cultura de pau i no-violència. Una cultura de pau que ha d’apostar per la resolució dels conflictes armats i per la superació de les situacions d’injustícia.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.13">»Alhora, el Parlament es compromet a treballar de manera integral en diferents àmbits per millorar l’eficàcia en la prevenció de la radicalització i la lluita contra el terrorisme.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.14">»Així mateix, el Parlament es compromet a continuar treballant permanentment per garantir els drets i les llibertats individuals i col·lectives que defineixen la nostra democràcia. Perquè la solidaritat, la llibertat i la convivència pacífica en la diversitat són la derrota del terrorisme.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.15">»Palau del Parlament, 25 d'agost de 2017.»</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.16">A continuació farem el minut de silenci.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.17">Donem per acabat el minut de silenci. Moltes gràcies a totes i a tots.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2017-08-25.u.2.18">I s’aixeca la sessió.</seg>
+            </u>
+         </div>
+      </body>
+   </text>
+</TEI>
