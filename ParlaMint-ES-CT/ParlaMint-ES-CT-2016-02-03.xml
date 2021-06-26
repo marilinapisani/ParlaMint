@@ -153,25 +153,55 @@
                ana="#chairperson" xml:lang="ca">
                <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.13.0">Té la paraula el conseller.</seg>
             </u>
-            <u xml:id="ParlaMint-ES-CT_2016-02-03.u14" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2016-02-03.u15" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2016-02-03.u16" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2016-02-03.u17" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2016-02-03.u18" who="#" ana="#"/>
+            <u xml:id="ParlaMint-ES-CT_2016-02-03.u14" who="#ComínAntoni" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.14.0">Gràcies, senyor diputat. Jo estic segur que vostè estarà d’acord amb mi que el que no tindria sentit és posar en risc o posar traves als centres de recerca que hi ha al nostre país; crec que en això estem tots d’acord. I el que avui necessiten els centres de recerca és un model de big data, perquè, efectivament, la recerca avui està íntimament associada a la gestió massiva de dades, de dades reals, de dades de les històries clíniques.</seg>
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2016-02-03.u15" who="#ComínAntoni" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.15.0">Per tant, nosaltres el que no farem en cap cas és dificultar que els nostres centres de recerca puguin seguir investigant; el que no farem –i crec que vostè no m’ho demana– és dificultar que els nostres centres de recerca segueixin sent líders a nivell internacional. No li'n poso exemples, però vostè sap que a la nostra ciutat i al nostre país hi ha molts centres que són líders a nivell internacional</seg>
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2016-02-03.u16" who="#ComínAntoni" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.16.0">Per tant, simplement, hem d’articular algun sistema de cessió de dades, de dades reals, basades en les històries clíniques reals dels pacients del nostre sistema de salut; ho hem de fer.</seg>  
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2016-02-03.u17" who="#ComínAntoni" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.17.0">Les condicions en base a les quals es construeixi aquest sistema les podem discutir, evidentment.</seg>
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2016-02-03.u18" who="#ForcadellCarme" ana="#chariperson" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.18.0">Gràcies.</seg>
+            </u>
             <u xml:id="ParlaMint-ES-CT_2016-02-03.u19"
                who="#ForcadellCarme"
-               ana="#chairperson"/>
-            <u xml:id="ParlaMint-ES-CT_2016-02-03.u20" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2016-02-03.u21" who="#DanteAlbano" ana="#member"/>
-            <u xml:id="ParlaMint-ES-CT_2016-02-03.u22" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2016-02-03.u23" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2016-02-03.u24" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2016-02-03.u25" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2016-02-03.u26" who="#" ana="#"/>
+               ana="#chairperson" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.19.0">Té la paraula el diputat</seg>
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2016-02-03.u20" who="#DanteAlbano" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.20.0">Gràcies Presidenta.</seg>
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2016-02-03.u21" who="#DanteAlbano" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.21.0">Bé, m’agrada, no li negaré que m’agrada sentir això que ho podem discutir, però també li dic que no ens en fiem, no ens en fiem gens, perquè moltes vegades aquesta apel·lació al diàleg ha servit perquè, mentre es dialoga, la conselleria tiri pel dret. No ens en fiem, a més a més, perquè aquest projecte ha estat fet al dictat de PricewaterhouseCoopers, una empresa amb la qual, per cert, tenim un problemeta de portes giratòries que un altre dia ja en parlarem.</seg>
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2016-02-03.u22" who="#DanteAlbano" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.22.0">Vostè ha dit, o sigui, que aquí no s’ha venut re; ho he sentit a la premsa els altres dies, no?, que només era cessió de dades a hospitals públics... Però això tampoc ens tranquil·litza, perquè la persona que portava el VISC+ fins ara va dir: «La primera fase és a hospitals públics, la segona és a empreses privades.» Ja tenim la primera fase.</seg> 
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2016-02-03.u23" who="#DanteAlbano" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.23.0">L’altre dia, en aquesta cambra, alguns es van queixar de la seva manca d’experiència en la gestió sanitària. Li he de dir que a nosaltres això no ens preocupa –no ens preocupa. El que sí que ens preocupa, i molt, és l’experiència que sí que tenen persones que vostè ha nomenat per dirigir la conselleria. Per exemple, ens preocupa molt que el número 2 del CatSalut sigui Josep Maria Argimon, que era justament la persona encarregada de dirigir el VISC+ quan Boi Ruiz era conseller. I ho dic, dic que em preocupa perquè aquest senyor deia que el VISC+, aquest projecte, «serveix per proporcionar valor a les indústries sanitàries i farmacèutiques i beneficia el teixit econòmic i industrial». O parlem d’investigadors o parlem de teixit econòmic i industrial.</seg>
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2016-02-03.u24" who="#DanteAlbano" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.24.0">Miri, li ho torno a repetir, m’alegro de sentir la paraula «diàleg»,  parlarem, però a mi m’agradaria avui saber, i m’imagino que a molta d’altra gent, si vostès segueixen contemplant la possibilitat de vendre les dades sanitàries dels catalans a empreses privades.</seg>
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2016-02-03.u25" who="#DanteAlbano" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.25.0">Només això; gràcies.</seg>            
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2016-02-03.u26" who="#ForcadellCarme" ana="#chairperson" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.26.0">Gràcies.</seg>
+            </u>
             <u xml:id="ParlaMint-ES-CT_2016-02-03.u27"
                who="#ForcadellCarme"
-               ana="#chairperson"/>
-            <u xml:id="ParlaMint-ES-CT_2016-02-03.u28" who="#" ana="#"/>
+               ana="#chairperson" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.27.0">Té la paraula el conseller.</seg>
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2016-02-03.u28" who="#ComínAntoni" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.28.0">Gràcies Presidenta.</seg>
+            </u>
             <u xml:id="ParlaMint-ES-CT_2016-02-03.u29" who="#ComínAntoni" ana="#member" xml:lang="ca">
                <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.29.0">A l’última pregunta que m’ha fet li contesto de manera taxativa: no –no. No tenim aquesta intenció, i així figura en els nostres compromisos polítics, que són públics.</seg>
                <seg xml:id="ParlaMint-ES-CT_2016-02-03.u.29.1">El gener del 2015, l’Aquas, que és l’Agència de Qualitat i Avaluació del sistema sanitari català, organisme públic del departament, va reorientar el projecte VISC+ per tal d’oferir les següents garanties. Una, que fos gestionat únicament i exclusivament per l’Aquas, justament en compliment de la moció de la tardor del 2014, on es deia que no es podien fer licitacions fins que no s’haguessin celebrat les jornades. I, efectivament, no s’ha fet cap licitació de cap part del projecte des de la tardor del 2014.</seg>

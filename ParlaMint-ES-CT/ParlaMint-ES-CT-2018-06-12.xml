@@ -133,14 +133,22 @@
             <u xml:id="ParlaMint-ES-CT_2018-06-12.u9" who="#TorrentRoger" ana="#chairperson" xml:lang="ca">
                <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.9.0">Gràcies, diputat. Ara, per respondre, té la paraula el senyor Josep Bargalló, conseller d’Ensenyament.</seg>
             </u>
-            <u xml:id="ParlaMint-ES-CT_2018-06-12.u10" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2018-06-12.u11" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2018-06-12.u12" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2018-06-12.u13" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2018-06-12.u14" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2018-06-12.u15" who="#TorrentRoger" ana="#chairperson"/>
-            <u xml:id="ParlaMint-ES-CT_2018-06-12.u16" who="#" ana="#"/>
-            <u xml:id="ParlaMint-ES-CT_2018-06-12.u17" xml:lang="ca">
+            <u xml:id="ParlaMint-ES-CT_2018-06-12.u10" who="#BargallóJosep" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.10.0">Gràcies, president. Diputat, celebro que la meva primera intervenció en aquesta cambra sigui, precisament, per parlar del model d’escola catalana i de la seva defensa, seguint la seva pregunta.</seg>
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2018-06-12.u11" who="#BargallóJosep" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.11.0">Ho hem dit des del primer dia i ho direm cada dia: el model d’escola catalana és un model d’èxit. Tenim una escola excel·lent, que hem de millorar –que hem de millorar–, però tenim una escola que és excel·lent i que és un model d’èxit. I ho és gràcies als mestres, a les mestres, al professorat, als equips directius, als serveis tècnics i al personal del Departament d’Ensenyament.</seg>
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2018-06-12.u12" who="#BargallóJosep" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.12.0">En aquests darrers mesos, això s’ha vist d’una manera exemplar. L’aplicació del 155, que ha impedit que, des d’una direcció política del departament, que pogués parlar en públic, s’exercís aquesta defensa de manera clara, en canvi, s’ha aconseguit que la feina diària a les nostres aules, que la feina diària a les nostres escoles, que la feina dels alts càrrecs del departament que no van ser cessats, fes que els atacs constants provinents de fora del sistema educatiu amb la voluntat de tergiversar, de reprimir i de fer mal no assolissin la seva fita.</seg>
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2018-06-12.u13" who="#BargallóJosep" ana="#member" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.13.0">Nosaltres som l’autoritat educativa de Catalunya. No hi ha cap altra autoritat educativa a Catalunya que nosaltres. El Govern de la Generalitat és l’única autoritat educativa de Catalunya i exercirem aquesta autoritat. I exercir-la és reclamar que tot allò que passa a les nostres aules s’ha de solucionar en els nostres centres i que tot allò que passa en els nostres centres ho ha de solucionar el Departament d’Ensenyament. I reclamar que res de fora del món educatiu vulgui intervenir-hi. No acceptem ingerències externes en el món educatiu. Som l’autoritat educativa a Catalunya. Exercirem l’autoritat educativa a Catalunya i reclamem el màxim i absolut respecte als mestres, al professorat...</seg>
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2018-06-12.u15" who="#TorrentRoger" ana="#chairperson" xml:lang="ca">
+               <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.15.0">Conseller, se li ha acabat el temps.</seg>
+            </u>
+            <u xml:id="ParlaMint-ES-CT_2018-06-12.u17" who="#BargallóJosep" ana="#member" xml:lang="ca">
                <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.17.0">...i als equips directius.</seg>
                <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.17.1">Moltes gràcies.</seg>
             </u>
@@ -1324,18 +1332,11 @@
                ana="#chairperson" xml:lang="ca">
                <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.211.0">Gràcies.</seg>
                <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.211.1">Aplaudiments.</seg>
-               <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.211.2">Seguim amb l’ordre del dia. El desè punt és... 
-            Veus de fons.
-             Sí, senyora Sierra, per què em demana la paraula? 
-            Veus de fons.
-             Trenta segons.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.211.2">Seguim amb l’ordre del dia. El desè punt és... Sí, senyora Sierra, per què em demana la paraula? Trenta segons.</seg>
             </u>
             <u xml:id="ParlaMint-ES-CT_2018-06-12.u212" who="#SierraSonia" ana="#member" xml:lang="ca">
                <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.212.0">Bé. La veritat és que quan es dona per fet que pel simple fet de ser diputats de Ciutadans no ens hem llegit 
-            El Quixot
-            , això és una mostra supremacista, i signar... 
-            Remor de veus.
-             I signar un manifest en el que es parla dels meus pares, dels pares del Carlos, de la Inés Arrimadas, de la mateixa Inés, com a instruments involuntaris de colonització lingüística, si això no és supremacisme ja m’explicaran el que és.</seg>
+            El Quixot, això és una mostra supremacista, i signar... I signar un manifest en el que es parla dels meus pares, dels pares del Carlos, de la Inés Arrimadas, de la mateixa Inés, com a instruments involuntaris de colonització lingüística, si això no és supremacisme ja m’explicaran el que és.</seg>
                <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.212.1">Les persones no som instruments, senyora Borràs.</seg>
             </u>
             <u xml:id="ParlaMint-ES-CT_2018-06-12.u213" xml:lang="ca">
@@ -1343,9 +1344,7 @@
                <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.213.1">El desè punt és la interpel·lació al Govern sobre els refugiats, efectuada pel Grup Parlamentari Republicà. En el seu nom, té la paraula el diputat Ruben Wagensberg.</seg>
             </u>
             <u xml:id="ParlaMint-ES-CT_2018-06-12.u214" who="#WagensbergRuben" ana="#member" xml:lang="ca">
-               <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.214.0">President... Diputats, diputades, conseller, Dia Mundial dels Refugiats, avui, 20 de juny, i coneixem aquesta setmana, aquesta mateixa setmana hem conegut les noves dades: 68,5 milions de refugiats al món. La mateixa setmana que hem vist les imatges de Trump tancant literalment en gàbies, com si fóssim un zoològic, nens, nens als que separaven en aquell mateix moment dels seus pares i de les seves mares. La mateixa setmana que el cap d’Estat, el rei, es reunia amb Trump. El mateix rei que uns mesos abans se n’anava a l’Aràbia Saudita a fer negocis amb les armes, a fer comissions, de fet, venent armes, armes que no serveixen per a res més que per fer la guerra. La mateixa setmana que hem vist entrar més de mil persones per la frontera sud de l’Estat espanyol. Unes quantes d’aquestes, per cert, han arribat en sis autobusos a la ciutat de Barcelona. El mateix mes de l’
-            Aquarius
-            . Agrair des d’aquí al Govern espanyol la ràpida actuació, però recordar que hi ha moltíssims i moltíssims temes pendents per solucionar encara, per dignificar una mica la vida de les persones que ja han arribat, però també per pal·liar els efectes de totes aquestes persones que venen.</seg>
+               <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.214.0">President... Diputats, diputades, conseller, Dia Mundial dels Refugiats, avui, 20 de juny, i coneixem aquesta setmana, aquesta mateixa setmana hem conegut les noves dades: 68,5 milions de refugiats al món. La mateixa setmana que hem vist les imatges de Trump tancant literalment en gàbies, com si fóssim un zoològic, nens, nens als que separaven en aquell mateix moment dels seus pares i de les seves mares. La mateixa setmana que el cap d’Estat, el rei, es reunia amb Trump. El mateix rei que uns mesos abans se n’anava a l’Aràbia Saudita a fer negocis amb les armes, a fer comissions, de fet, venent armes, armes que no serveixen per a res més que per fer la guerra. La mateixa setmana que hem vist entrar més de mil persones per la frontera sud de l’Estat espanyol. Unes quantes d’aquestes, per cert, han arribat en sis autobusos a la ciutat de Barcelona. El mateix mes de l’Aquarius. Agrair des d’aquí al Govern espanyol la ràpida actuació, però recordar que hi ha moltíssims i moltíssims temes pendents per solucionar encara, per dignificar una mica la vida de les persones que ja han arribat, però també per pal·liar els efectes de totes aquestes persones que venen.</seg>
                <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.214.1">I és que les preguntes que ens hem de fer tots plegats i totes plegades són moltes. Primer, en origen; en origen, perquè les guerres..., les guerres continuen més que mai, les guerres de les quals també en som còmplices. Som còmplices com a ciutadans, però també com a sistema, a través, per exemple, dels nostres bancs, que inverteixen en armament; de les nostres empreses, de les nostres constructores. Som còmplices de la fam; som còmplices també de la pobresa, que obliga a moltíssimes persones a fer una migració econòmica, que a sobre aquestes persones no són considerades ni refugiades; de deslocalització, principalment, per exemple, en temes de roba, en temes de tecnologia. Som còmplices també, el nostre sistema, del canvi climàtic; de la violació de drets humans.</seg>
                <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.214.2">Després, un cop totes aquestes persones han de marxar del seu país –no per gust, han de marxar forçosament–, emprenen un viatge. Un viatge, un trajecte, un trànsit en el qual nosaltres també som molt còmplices de qualsevol de les coses que els passa en aquest trajecte. Les nostres empreses, per exemple, inverteixen moltíssims –moltíssims– diners a les fronteres, externalitzant-les o posant-les mortíferes en el nostre mateix territori. Les nostres pròpies empreses, empreses inclús també catalanes, com CaixaBank, que a través d’Indra col·loquen tot el sistema de vigilància en aquestes tanques. O l’empresa Dragados, que col·loca les concertines de l’Estat espanyol i de mig Europa. O com les nostres empreses d’aviació..., molt poques d’aquestes empreses d’aviació..., que guanyen reiteradament els concursos públics per als vols de deportació. Un exemple és Air Europa. O com deixem les persones tancades anys i anys en camps de refugiats a les portes d’Europa.</seg>
                <seg xml:id="ParlaMint-ES-CT_2018-06-12.u.214.3">Per cert, la frontera de l’Estat espanyol és la més mortífera, la més perillosa del món. Una de cada vint-i-nou persones que intenta creuar aquesta frontera, una de cada vint-i-nou mor en l’intent, una de cada vint-i-nou. És que és una xifra..., bé, no... –una de cada vint-i-nou. A la frontera a Líbia..., a Itàlia, en aquest cas, és una de cada trenta-set persones. I si la taxa de mortalitat no és tan alta, per exemple, a Turquia amb Grècia, és només per una qüestió, perquè ja ens hem encarregat de que aquestes persones no intentin ni passar-la, a través de tractats, de tractats milionaris en els quals Europa ha de pagar, per exemple, 6.000 milions d’euros, recordem-ho, a Turquia per externalitzar la seva frontera.</seg>
