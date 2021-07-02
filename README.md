@@ -4,7 +4,7 @@ This unannotated corpus is compiled with the parliamentary sessions of the Parli
 This corpus follows the [Parla-CLARIN recommendations](https://clarin-eric.github.io/parla-clarin/) proposed by the [CLARIN ParlaMint
 project](https://www.clarin.eu/content/parlamint-towards-comparable-parliamentary-corpora). It is formed by 211 parliamentary transcriptions with the metadata of all the members of the parliament and their political party during the covered years. 
 
-It contains a total of 11.7 million words in 39 585 utterances.
+It contains a total of 11.7 million words in 39 478 utterances.
 
 This Git contains the following folders: 
 
