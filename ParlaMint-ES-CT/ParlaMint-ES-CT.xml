@@ -444,7 +444,7 @@
 		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
 		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
-               <person xml:id="ArtadiElsa">
+    <person xml:id="ArtadiElsa">
 		<persName>
 			<forename>Elsa</forename>
 			<surname>Artadi i Vila</surname>
@@ -757,7 +757,7 @@
 		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
 		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
-	             <person xml:id="CasalsMuriel">
+	<person xml:id="CasalsMuriel">
 		<persName>
 			<forename>Muriel</forename>
 			<surname>Casals i Couturier</surname>
@@ -766,7 +766,7 @@
 		<birth when="1945-04-06"/>
 		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
-	             <person xml:id="CasamitjanaMagdalena">
+	<person xml:id="CasamitjanaMagdalena">
 		<persName>
 			<forename>Magdalena</forename>
 			<surname>Casamitjana i Aguilà</surname>
@@ -776,7 +776,7 @@
 		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-03-23" to="2018-11-30"/>
 	</person>
-	             <person xml:id="CastelJean">
+	<person xml:id="CastelJean">
 		<persName>
 			<forename>Jean</forename>
 			<surname>Castel Sucarrat</surname>
