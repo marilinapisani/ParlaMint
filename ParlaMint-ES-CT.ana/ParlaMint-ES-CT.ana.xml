@@ -164,12 +164,12 @@
                            <catDesc xml:lang="en">
                               <term>Types of meetings</term>
                            </catDesc>
-                           <category xml:id="parla.meeting.regular">
+                           <category xml:id="parla.meeting.member">
                               <catDesc xml:lang="ca">
                                  <term>Sessió ordinaria</term>
                               </catDesc>
                               <catDesc xml:lang="en">
-                                 <term>Regular meeting</term>
+                                 <term>member meeting</term>
                               </catDesc>
                            </category>
                            <category xml:id="parla.meeting.special">
@@ -220,11 +220,11 @@
                   <catDesc xml:lang="en">
                      <term>Chairman</term>: chairperson of a meeting</catDesc>
                </category>
-               <category xml:id="regular">
+               <category xml:id="member">
                   <catDesc xml:lang="ca">
                      <term>Diputat/da</term>: representant en el Parlament</catDesc>
                   <catDesc xml:lang="en">
-                     <term>Regular</term>: a regular speaker at a meeting</catDesc>
+                     <term>member</term>: a member speaker at a meeting</catDesc>
                </category>
                <category xml:id="guest">
                   <catDesc xml:lang="ca">
@@ -651,7 +651,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1984-06-10"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CatenCumú-PODEM" from="2019-04-16" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.CatenCumú-PODEM" from="2019-04-16" to="2020-12-18"/>
  </person>
                <person xml:id="AlamanyElisenda">
     <persName>
@@ -660,7 +660,7 @@
     </persName>
     <sex value="F"/>
     <birth when="1983"/>
-    <affiliation ana="#PC" role="regular" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2019-04-02"/>
+    <affiliation ana="#PC" role="member" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2019-04-02"/>
  </person>
                <person xml:id="AlbertJordi">
 		<persName>
@@ -669,7 +669,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1978-02-14"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
  </person>
                <person xml:id="AlbiachJèssica">
 		<persName>
@@ -678,8 +678,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1979-05-29"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2020-12-18"/>
  </person>
                <person xml:id="AlonsoMatías">
 		<persName>
@@ -688,8 +688,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1952-04-08"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="AmatOriol">
 		<persName>
@@ -698,7 +698,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1957-03-14"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="AmellòHéctor">
 		<persName>
@@ -707,7 +707,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1977"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="AmorósOriol">
 		<persName>
@@ -716,7 +716,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1970-10-24"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2016-02-04"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2016-02-04"/>
 	</person>
                <person xml:id="AragonèsPere">
 		<persName>
@@ -725,8 +725,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1982-11-16"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2016-01-21"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2016-01-21"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="ArrimadasInés">
 		<persName>
@@ -735,8 +735,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1981-07-03"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="ArtadiElsa">
 		<persName>
@@ -745,7 +745,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1976-08-19"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
             	<person xml:id="BaigetJordi">
             		<persName>
@@ -754,7 +754,7 @@
             		</persName>
             		<sex value="M"/>
             		<birth when="1963-12-30"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2016-01-14" to="2017-07-04"/>
+            		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2016-01-14" to="2017-07-04"/>
             	</person>
 	             <person xml:id="BalaschAntoni">
 		<persName>
@@ -763,7 +763,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1958-11-02"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="BañosAntonio">
 		<persName>
@@ -772,7 +772,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1967-04-18"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2015-10-26" to="2016-01-12"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2015-10-26" to="2016-01-12"/>
 	</person>
 	             <person xml:id="BargallóGerard">
 		<persName>
@@ -781,7 +781,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1977-12-02"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CSQP" from="2015-10-26" to="2015-11-30"/>
+		<affiliation ana="#PC" role="member" ref="#party.CSQP" from="2015-10-26" to="2015-11-30"/>
 	</person>
 	             <person xml:id="BaróEva">
 		<persName>
@@ -790,7 +790,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1974-10-23"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2019-07-16"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2019-07-16"/>
 	</person>
 	             <person xml:id="BarraMartin">
 		<persName>
@@ -799,8 +799,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1956"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="BarrufetRamona">
 		<persName>
@@ -809,7 +809,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1959-10-09"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="BassaDolors">
 		<persName>
@@ -818,8 +818,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1959-02-02"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2018-03-22"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2018-03-22"/>
 	</person>
 	             <person xml:id="BatallaAlbert">
 		<persName>
@@ -828,7 +828,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1977-10-25"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="BatetAlbert">
 		<persName>
@@ -837,8 +837,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1979-03-05"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="BelGermà">
 		<persName>
@@ -847,7 +847,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1963-03-15"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="BeltránSusana">
 		<persName>
@@ -856,8 +856,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1966"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="BetranDavid">
 		<persName>
@@ -866,7 +866,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1989-08-26"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="BonvehíDavid">
 		<persName>
@@ -875,7 +875,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1979"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="BorràsLaura">
 		<persName>
@@ -884,7 +884,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1970-10-05"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2019-05-20"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2019-05-20"/>
 	</person>
             	<person xml:id="BorràsMeritxell">
             		<persName>
@@ -893,7 +893,7 @@
             		</persName>
             		<sex value="F"/>
             		<birth when="1964-04-12"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2016-01-14" to="2017-10-27"/>
+            		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2016-01-14" to="2017-10-27"/>
             	</person>
             	<person xml:id="BoschAlfred">
             		<persName>
@@ -902,7 +902,7 @@
             		</persName>
             		<sex value="M"/>
             		<birth when="1961-04-17"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-11-23" to="2020-03-09"/>
+            		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-11-23" to="2020-03-09"/>
             	</person>
                <person xml:id="BotranAlbert">
 		<persName>
@@ -911,7 +911,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1984-01-14"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2015-10-26" to="2017-11-27"/>
 	</person>
                <person xml:id="BoyaMireia">
 		<persName>
@@ -920,7 +920,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1979-11-28"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2016-01-19" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2016-01-19" to="2017-11-27"/>
 	</person>
 	             <person xml:id="BravoMarina">
 		<persName>
@@ -929,8 +929,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1978"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="BrugueraRafel">
 		<persName>
@@ -939,8 +939,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1956-10-11"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="BuchMiquel">
 		<persName>
@@ -949,7 +949,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1975-08-03"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2019-05-28" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2019-05-28" to="2020-12-18"/>
 	</person>
             	<person xml:id="BudóMeritxell">
             		<persName>
@@ -958,7 +958,7 @@
             		</persName>
             		<sex value="F"/>
             		<birth when="1969-03-08"/>
-            		<affiliation ana="#PC" role="regular" ref="#JxCAT" from="2019-03-24" to="2020-12-18"/>
+            		<affiliation ana="#PC" role="member" ref="#JxCAT" from="2019-03-24" to="2020-12-18"/>
             	</person>
             	<person xml:id="BargallóJosep">
             		<persName>
@@ -967,7 +967,7 @@
             		</persName>
             		<sex value="M"/>
             		<birth when="1958-10-03"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-05-18" to="2020-12-18"/>
+            		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-05-18" to="2020-12-18"/>
             	</person>
 	             <person xml:id="BusquetaJosep">
 		<persName>
@@ -976,7 +976,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1973"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2015-10-26" to="2016-01-12"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2015-10-26" to="2016-01-12"/>
 	</person>
 	             <person xml:id="CaballolJoan">
 		<persName>
@@ -985,7 +985,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="19647"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2020-09-18" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2020-09-18" to="2020-12-18"/>
 	</person>
             	<person xml:id="CalvetDamià">
             		<persName>
@@ -994,7 +994,7 @@
             		</persName>
             		<sex value="M"/>
             		<birth when="1968-05-23"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-05-29" to="2020-12-18"/>
+            		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-05-29" to="2020-12-18"/>
             	</person>
 	             <person xml:id="CampdepadrósEusebi">
 		<persName>
@@ -1003,7 +1003,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1961-09-23"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="CandiniMontserrat">
 		<persName>
@@ -1012,7 +1012,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1957-09-04"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="CanoJose">
 		<persName>
@@ -1021,7 +1021,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1969-02-18"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
             	<person xml:id="CapellaEster">
             		<persName>
@@ -1030,7 +1030,7 @@
             		</persName>
             		<sex value="F"/>
             		<birth when="1963-04-03"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-05-19" to="2020-12-18"/>
+            		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-05-19" to="2020-12-18"/>
             	</person>
                <person xml:id="CarbonellAurora">
 		<persName>
@@ -1039,7 +1039,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1966"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2019-07-25" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2019-07-25" to="2020-12-18"/>
 	</person>
 	             <person xml:id="CarrizosaCarlos">
 		<persName>
@@ -1048,8 +1048,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1964-03-22"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="CasalsMuriel">
 		<persName>
@@ -1058,7 +1058,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1945-04-06"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="CasamitjanaMagdalena">
 		<persName>
@@ -1067,8 +1067,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1963-01-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-03-23" to="2018-11-30"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-03-23" to="2018-11-30"/>
 	</person>
 	             <person xml:id="CastelJean">
 		<persName>
@@ -1077,8 +1077,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1966-03-18"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="CastellàAntoni">
 		<persName>
@@ -1087,8 +1087,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1970-06-26"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="CastellvíCarmina">
 		<persName>
@@ -1097,7 +1097,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1967"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="CastillejoPilar">
 		<persName>
@@ -1106,7 +1106,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1969"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2016-02-16" to="2016-10-14"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2016-02-16" to="2016-10-14"/>
 	</person>
                <person xml:id="CastilloCarlos">
 		<persName>
@@ -1115,8 +1115,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1975"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-09-14"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-09-14"/>
 	</person>
                <person xml:id="CaulaAnna">
 		<persName>
@@ -1125,8 +1125,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1971-04-06"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="CerveraViolant">
 		<persName>
@@ -1135,7 +1135,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1969-06-13"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="CidDavid">
 		<persName>
@@ -1144,7 +1144,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1980"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="CivitFerran">
 		<persName>
@@ -1153,8 +1153,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1977"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="ClaraNarcis">
 		<persName>
@@ -1163,7 +1163,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1960"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="ComínAntoni">
 		<persName>
@@ -1172,8 +1172,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1971-03-07"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-01-07"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-01-07"/>
 	</person>
                <person xml:id="CorominasLluís">
 		<persName>
@@ -1182,7 +1182,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1963-02-14"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="CoscubielaJoan">
 		<persName>
@@ -1191,7 +1191,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1954-08-16"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="CostaJosep">
 		<persName>
@@ -1199,7 +1199,7 @@
 			<surname>Costa i Rosselló</surname>
 		</persName>
 		<sex value="M"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="CuminalJordi">
 		<persName>
@@ -1208,7 +1208,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1977-02-23"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
                <person xml:id="DalmasesFrancesc">
 		<persName>
@@ -1217,7 +1217,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1970"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="DanteAlbano">
 		<persName>
@@ -1226,7 +1226,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1976-04-22"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
 	</person>
                <person xml:id="DeJòdarJulià">
 		<persName>
@@ -1235,7 +1235,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1942-12-28"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2015-10-26" to="2016-01-11"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2015-10-26" to="2016-01-11"/>
 	</person>
 	             <person xml:id="DelaCalleNoemí">
 		<persName>
@@ -1244,8 +1244,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1979"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="DelgadoAdriana">
 		<persName>
@@ -1254,8 +1254,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1978"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2016-02-24" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2016-02-24" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="DePáramoFernando">
 		<persName>
@@ -1264,8 +1264,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1987-11-25"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2018-07-31"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2018-07-31"/>
 	</person>
 	             <person xml:id="DeRiveraCarmen">
 		<persName>
@@ -1274,8 +1274,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1956-04-18"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="DiazJenn">
 		<persName>
@@ -1284,7 +1284,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1988-04-25"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="DomènechXavier">
 		<persName>
@@ -1293,7 +1293,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1974-12-02"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2018-09-12"/>
+		<affiliation ana="#PC" role="member" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2018-09-12"/>
 	</person>
 	             <person xml:id="DomínguezFrancisco">
 		<persName>
@@ -1302,8 +1302,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1968"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="BenNajat">
 		<persName>
@@ -1312,7 +1312,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1981"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="ElGarbhiSawia">
 		<persName>
@@ -1320,7 +1320,7 @@
 			<surname>El Garbhi</surname>
 		</persName>
 		<sex value="F"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-29" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-29" to="2020-12-18"/>
 	</person>
 	             <person xml:id="ElHomraniChakir">
 		<persName>
@@ -1329,8 +1329,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1979"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-03-23" to="2018-06-14"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-03-23" to="2018-06-14"/>
 	</person>
 	             <person xml:id="ErraAnna">
 		<persName>
@@ -1339,7 +1339,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1965-10-07"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-06-19" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-06-19" to="2020-12-18"/>
 	</person>
 	             <person xml:id="EscarpAssumpta">
 		<persName>
@@ -1348,8 +1348,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1957"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="EscofetMercè">
 		<persName>
@@ -1357,7 +1357,7 @@
 			<surname>Escofet Sala</surname>
 		</persName>
 		<sex value="F"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2019-05-28" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2019-05-28" to="2020-12-18"/>
 	</person>
 	             <person xml:id="EspadalerRamon">
 		<persName>
@@ -1366,7 +1366,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1963-09-19"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="Espejo-Saavedra">
 		<persName>
@@ -1375,8 +1375,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1976-07-20"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2019-05-20"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2019-05-20"/>
 	</person>
                <person xml:id="EspigaresGemma">
 		<persName>
@@ -1385,7 +1385,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1988"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="EspinosaAntonio">
 		<persName>
@@ -1394,8 +1394,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1959"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="FeijóoJorge">
 		<persName>
@@ -1403,7 +1403,7 @@
 			<surname>Feijóo</surname>
 		</persName>
 		<sex value="M"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2019-05-28" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2019-05-28" to="2020-12-18"/>
 	</person>
                <person xml:id="FernándezAlejandro">
 		<persName>
@@ -1412,8 +1412,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1976-05-30"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="FernándezMaialen">
 		<persName>
@@ -1422,7 +1422,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1974"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="FernándezMaria">
 		<persName>
@@ -1431,7 +1431,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1975"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="FernándezMunia">
 		<persName>
@@ -1440,7 +1440,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1972"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="FerrerMaria">
 		<persName>
@@ -1449,7 +1449,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1963"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2018-06-08"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2018-06-08"/>
 	</person>
              	 <person xml:id="FerroLucas">
 		<persName>
@@ -1458,7 +1458,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1990"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CatenCumú-PODEM" from="2018-09-26" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.CatenCumú-PODEM" from="2018-09-26" to="2020-12-18"/>
 	</person>
 	             <person xml:id="FiguerasAnna">
 		<persName>
@@ -1467,7 +1467,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1969"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="FiguerasNatàlia">
 		<persName>
@@ -1476,7 +1476,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1989-02-07"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
                <person xml:id="FontLluís">
 		<persName>
@@ -1485,7 +1485,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1958"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="ForcadellCarme">
 		<persName>
@@ -1495,7 +1495,7 @@
 		<sex value="F"/>
 		<birth when="1955-05-29"/>
 		<affiliation ana="#PC" role="chairperson" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2018-03-22"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2018-03-22"/>
 	</person>
 	             <person xml:id="FornèJosep">
 		<persName>
@@ -1504,8 +1504,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1962"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="FornellsMontserrat">
 		<persName>
@@ -1514,8 +1514,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1983"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="FornJoaquim">
 		<persName>
@@ -1524,7 +1524,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1964-04-01"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2018-01-23"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2018-01-23"/>
 	</person>
                <person xml:id="FornósIrene">
 		<persName>
@@ -1533,7 +1533,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1980-08-17"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="FortMaria">
 		<persName>
@@ -1542,7 +1542,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1970"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2019-05-25" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2019-05-25" to="2020-12-18"/>
 	</person>
 	             <person xml:id="FrancoJosep">
 		<persName>
@@ -1551,7 +1551,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1954-02-17"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="FreixaGlòria">
 		<persName>
@@ -1560,7 +1560,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1969"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2019-05-28" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2019-05-28" to="2020-12-18"/>
 	</person>
 	             <person xml:id="GabrielAnna">
 		<persName>
@@ -1569,7 +1569,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1975-09-13"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2015-10-26" to="2017-11-27"/>
 	</person>
                <person xml:id="GalianoJesús">
 		<persName>
@@ -1578,7 +1578,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1951"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2016-03-15"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2016-03-15"/>
 	</person>
                <person xml:id="GallardoImma">
 		<persName>
@@ -1587,7 +1587,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1966-09-12"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="GallegoAntonio">
 		<persName>
@@ -1596,7 +1596,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1975-10-02"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="GarcíaEsperanza">
 		<persName>
@@ -1605,8 +1605,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1975"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2019-02-06" to="2020-10-06"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2019-02-06" to="2020-10-06"/>
 	</person>
                <person xml:id="GarcíaJoan">
 		<persName>
@@ -1615,8 +1615,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1975"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="GarcíaMJose">
 		<persName>
@@ -1625,7 +1625,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1964-03-18"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
 	</person>
                <person xml:id="GarcíaXavier">
 		<persName>
@@ -1634,8 +1634,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1967-12-08"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2018-01-17" to="2019-01-31"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2018-01-17" to="2019-01-31"/>
 	</person>
 	             <person xml:id="GarrigaJoan">
 		<persName>
@@ -1644,7 +1644,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1953"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2016-01-19" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2016-01-19" to="2017-11-27"/>
 	</person>
                <person xml:id="GeisGemma">
 		<persName>
@@ -1653,7 +1653,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1960"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="GeliAnna">
 		<persName>
@@ -1662,7 +1662,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1978"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="GibertPol">
 		<persName>
@@ -1671,8 +1671,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1987-04-04"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="GinerJoan">
 		<persName>
@@ -1681,7 +1681,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1989-07-26"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="GomézGerard">
 		<persName>
@@ -1690,8 +1690,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1989-10-17"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="GordòGermà">
 		<persName>
@@ -1700,7 +1700,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1963"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="GrageraDimas">
 		<persName>
@@ -1709,7 +1709,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1984-03-25"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="GranadosEva">
 		<persName>
@@ -1718,8 +1718,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1975-01-06"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="GrauHortènsia">
 		<persName>
@@ -1728,7 +1728,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1960"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CSQP" from="2015-11-06" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CSQP" from="2015-11-06" to="2017-11-27"/>
 	</person>
 	             <person xml:id="GuilarteMaria">
 		<persName>
@@ -1737,7 +1737,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1971"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2019-07-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2019-07-18"/>
 	</person>
 	             <person xml:id="GuinóLluís">
 		<persName>
@@ -1746,8 +1746,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1969-05-29"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="HervíasFran">
 		<persName>
@@ -1756,7 +1756,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1983-09-28"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2016-01-11"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2016-01-11"/>
 	</person>
 	             <person xml:id="IbarraRosa">
 		<persName>
@@ -1765,8 +1765,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1969-07-26"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="IcetaMiquel">
 		<persName>
@@ -1775,8 +1775,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1960-08-17"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
             	<person xml:id="JanéJordi">
             		<persName>
@@ -1785,7 +1785,7 @@
             		</persName>
             		<sex value="M"/>
             		<birth when="1983"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2016-01-14" to="2017-07-17"/>
+            		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2016-01-14" to="2017-07-17"/>
             	</person>
             	<person xml:id="JordàTeresa">
             		<persName>
@@ -1794,7 +1794,7 @@
             		</persName>
             		<sex value="F"/>
             		<birth when="1972-06-19"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-05-19" to="2020-12-18"/>
+            		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-05-19" to="2020-12-18"/>
             	</person>
 	             <person xml:id="JovéJosep">
 		<persName>
@@ -1803,7 +1803,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1979"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="JunquerasOriol">
 		<persName>
@@ -1812,8 +1812,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1969-04-11"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2019-05-20"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2019-05-20"/>
 	</person>
                <person xml:id="LaïllaAssumpció">
 		<persName>
@@ -1822,8 +1822,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1975-10-03"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2016-02-16" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-03-23" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2016-02-16" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-03-23" to="2020-12-18"/>
 	</person>
 	             <person xml:id="LevyAndrea">
 		<persName>
@@ -1832,8 +1832,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1984-05-03"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2018-01-17" to="2019-05-09"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2018-01-17" to="2019-05-09"/>
 	</person>
 	             <person xml:id="LienasGemma">
 		<persName>
@@ -1842,7 +1842,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1951-01-16"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
 	</person>
                <person xml:id="LlachLluís">
 		<persName>
@@ -1851,7 +1851,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1948-05-07"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="LlauradóNoemi">
 		<persName>
@@ -1860,7 +1860,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1978-06-04"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="LlopLluïsa">
 		<persName>
@@ -1869,7 +1869,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1970-12-19"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-06-14" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-06-14" to="2020-12-18"/>
 	</person>
 	             <person xml:id="LloverasNeus">
 		<persName>
@@ -1878,7 +1878,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1963-08-03"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
                <person xml:id="LópezYolanda">
 		<persName>
@@ -1887,7 +1887,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1966"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="LosadaManuel">
 		<persName>
@@ -1896,7 +1896,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1970-08-14"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2019-07-18" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2019-07-18" to="2020-12-18"/>
 	</person>
 	             <person xml:id="MaciàMontserrat">
 		<persName>
@@ -1905,7 +1905,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1962"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="MadaulaAurora">
 		<persName>
@@ -1914,7 +1914,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1978-11-12"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="MadrenasMarta">
 		<persName>
@@ -1923,7 +1923,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1967-11-01"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="MaragallErnest">
 		<persName>
@@ -1932,7 +1932,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1943-01-05"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="MartínezÀngels">
 		<persName>
@@ -1941,7 +1941,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1948-05-09"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="MartínezEva">
 		<persName>
@@ -1950,7 +1950,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1976-07-26"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="MartínIgnacio">
 		<persName>
@@ -1959,7 +1959,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1982-08-02"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="MasArtur">
 		<persName>
@@ -1968,7 +1968,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1956-01-31"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2016-01-13"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2016-01-13"/>
 	</person>
 	             <person xml:id="MascarellFerran">
 		<persName>
@@ -1977,7 +1977,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1951"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2020-02-04" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2020-02-04" to="2020-12-18"/>
 	</person>
                <person xml:id="MejíaDavid">
 		<persName>
@@ -1986,8 +1986,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1984"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="MetgeAlba">
 		<persName>
@@ -1996,7 +1996,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1982-10-15"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2020-01-22" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2020-01-22" to="2020-12-18"/>
 	</person>
 	             <person xml:id="MilllanJuan">
 		<persName>
@@ -2005,7 +2005,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1981-08-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
 	</person>
                <person xml:id="MilloJosep">
 		<persName>
@@ -2014,7 +2014,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1960-11-24"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="MohedanoFabian">
 		<persName>
@@ -2023,7 +2023,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1975"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2016-01-20" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2016-01-20" to="2017-11-27"/>
 	</person>
 	             <person xml:id="MorenoRaúl">
 		<persName>
@@ -2032,8 +2032,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1978-12-20"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="MoretaMarta">
 		<persName>
@@ -2042,8 +2042,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1969-01-20"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="MorralAntoni">
 		<persName>
@@ -2052,7 +2052,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1957-08-26"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-23" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-23" to="2020-12-18"/>
 	</person>
             	<person xml:id="MundóCarles">
             		<persName>
@@ -2061,7 +2061,7 @@
             		</persName>
             		<sex value="F"/>
             		<birth when="1976-03-03"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2016-01-14" to="2017-01-14"/>
+            		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2016-01-14" to="2017-01-14"/>
             	</person>
                <person xml:id="MunellJordi">
 		<persName>
@@ -2070,8 +2070,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1965-11-17"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="MuntéNeus">
 		<persName>
@@ -2080,7 +2080,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1970-11-13"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-01-17"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-01-17"/>
 	</person>
 	             <person xml:id="NavarroBlanca">
 		<persName>
@@ -2088,7 +2088,7 @@
 			<surname>Navarro Pacheco</surname>
 		</persName>
 		<sex value="F"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="NiubóEsther">
 		<persName>
@@ -2097,8 +2097,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1980-10-01"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="NuetJoan">
 		<persName>
@@ -2107,8 +2107,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1964-08-06"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2019-03-20"/>
+		<affiliation ana="#PC" role="member" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2019-03-20"/>
 	</person>
 	             <person xml:id="OrdeigÒscar">
 		<persName>
@@ -2117,8 +2117,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1978-03-14"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="OrobitgJordi">
 		<persName>
@@ -2127,8 +2127,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1966-10-15"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-12-11" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-12-11" to="2020-12-18"/>
 	</person>
                <person xml:id="PachaméMartí">
 		<persName>
@@ -2136,7 +2136,7 @@
 			<surname>Pachamé Barrera</surname>
 		</persName>
 		<sex value="M"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-09-04" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-09-04" to="2020-12-18"/>
 	</person>
 	             <person xml:id="PalacinMònica">
 		<persName>
@@ -2145,7 +2145,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1972-10-30"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="PalauMontserrat">
 		<persName>
@@ -2154,7 +2154,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1958"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="PallarèsTeresa">
 		<persName>
@@ -2163,7 +2163,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1964"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="ParésMarc">
 		<persName>
@@ -2172,7 +2172,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1979-02-24"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CatenCumú-PODEM" from="2019-03-04" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.CatenCumú-PODEM" from="2019-03-04" to="2020-12-18"/>
 	</person>
 	             <person xml:id="PascalMarta">
 		<persName>
@@ -2181,7 +2181,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1983-04-10"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="PedretFerran">
 		<persName>
@@ -2190,8 +2190,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1979-08-18"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="PérezDavid">
 		<persName>
@@ -2200,8 +2200,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1960-12-14"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="PerisÒscar">
 		<persName>
@@ -2210,7 +2210,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1974-04-30"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2018-07-24"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2018-07-24"/>
 	</person>
                <person xml:id="PicasNúria">
 		<persName>
@@ -2219,7 +2219,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1976-11-02"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2019-05-28" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2019-05-28" to="2020-12-18"/>
 	</person>
                <person xml:id="PonsaÀngels">
 		<persName>
@@ -2228,7 +2228,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1960-03-10"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="PonsetiClara">
 		<persName>
@@ -2237,7 +2237,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1957-03-19"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2018-01-29"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2018-01-29"/>
 	</person>
                <person xml:id="PratsCarles">
 		<persName>
@@ -2246,7 +2246,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1971"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2026-02-02" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2026-02-02" to="2017-11-27"/>
 	</person>
 	             <person xml:id="PuigdemontCarles">
 		<persName>
@@ -2255,8 +2255,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1962-12-29"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-01-07"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-01-07"/>
 	</person>
                <person xml:id="PuigJosep">
 		<persName>
@@ -2265,7 +2265,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1947"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2019-05-28" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2019-05-28" to="2020-12-18"/>
 	</person>
                <person xml:id="PuigLluís">
 		<persName>
@@ -2274,7 +2274,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1959-10-18"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2018-01-29"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2018-01-29"/>
 	</person>
             	<person xml:id="PuigneróJordi">
             		<persName>
@@ -2283,7 +2283,7 @@
             		</persName>
             		<sex value="M"/>
             		<birth when="1974-02-02"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-05-19" to="2020-12-18"/>
+            		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-05-19" to="2020-12-18"/>
             	</person>
 	             <person xml:id="PujolEduard">
 		<persName>
@@ -2292,7 +2292,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1969-10-13"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-10-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-10-27"/>
 	</person>
                <person xml:id="QuinquillàXavier">
 		<persName>
@@ -2301,7 +2301,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1969"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="RamonJoan">
 		<persName>
@@ -2310,7 +2310,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1974-08-02"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
              	 <person xml:id="ReguantEulàlia">
 		<persName>
@@ -2319,7 +2319,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1979-09-19"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2015-10-26" to="2017-11-11"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2015-10-26" to="2017-11-11"/>
 	</person>
             	 <person xml:id="ReyesEduardo">
 		<persName>
@@ -2328,8 +2328,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1951-04-25"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2019-11-26" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2019-11-26" to="2020-12-18"/>
 	</person>
              	 <person xml:id="ReyesManuel">
 		<persName>
@@ -2338,7 +2338,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1976-05-16"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2020-10-13" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2020-10-13" to="2020-12-18"/>
 	</person>
             	 <person xml:id="RibasMarta">
 		<persName>
@@ -2347,8 +2347,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1975"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="RibasRut">
 		<persName>
@@ -2357,7 +2357,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1990"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="RieraCarles">
 		<persName>
@@ -2366,8 +2366,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1960"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2016-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2016-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="RieraJosep">
 		<persName>
@@ -2376,7 +2376,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1963"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="RigauIrene">
 		<persName>
@@ -2385,7 +2385,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1951-06-22"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="RivasJavier">
 		<persName>
@@ -2394,8 +2394,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1963"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="RodriguezDavid">
 		<persName>
@@ -2404,8 +2404,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1967-11-08"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-29" to="2018-09-20"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-29" to="2018-09-20"/>
 	</person>
 	             <person xml:id="RodriguezJosé">
 		<persName>
@@ -2414,7 +2414,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1976"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2019-05-28" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2019-05-28" to="2020-12-18"/>
 	</person>
                <person xml:id="RodriguezManuel">
 		<persName>
@@ -2423,7 +2423,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1960"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="RodriguezSantiago">
 		<persName>
@@ -2432,8 +2432,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1964-04-18"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="RoigèMeritxell">
 		<persName>
@@ -2442,7 +2442,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1976-01-15"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="RoldánLorena">
 		<persName>
@@ -2451,8 +2451,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1981-08-07"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="RomeroAlícia">
 		<persName>
@@ -2461,8 +2461,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1976-06-20"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="RomevaRaül">
 		<persName>
@@ -2471,8 +2471,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1971-03-12"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2019-10-29"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2019-10-29"/>
 	</person>
 	             <person xml:id="RoquerFerran">
 		<persName>
@@ -2481,7 +2481,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1967-12-06"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-29" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-29" to="2020-12-18"/>
 	</person>
 	             <person xml:id="RosellMaria">
 		<persName>
@@ -2490,7 +2490,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1959"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2016-01-28" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2016-01-28" to="2017-11-27"/>
 	</person>
 	             <person xml:id="RoviraMarta">
 		<persName>
@@ -2499,8 +2499,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1977-01-25"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2018-03-22"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2018-03-22"/>
 	</person>
 	             <person xml:id="RovirolaMaria">
 		<persName>
@@ -2509,7 +2509,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1960"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
             	<person xml:id="RuizMeritxell">
             		<persName>
@@ -2518,7 +2518,7 @@
             		</persName>
             		<sex value="F"/>
             		<birth when="1978"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2016-01-14" to="2017-07-14"/>
+            		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2016-01-14" to="2017-07-14"/>
             	</person>
 	             <person xml:id="RullJosep">
 		<persName>
@@ -2527,8 +2527,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1968-09-02"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2019-05-17"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2019-05-17"/>
 	</person>
                <person xml:id="SabriàSergi">
 		<persName>
@@ -2537,8 +2537,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1975-07-02"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="SafontXavier">
 		<persName>
@@ -2547,7 +2547,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1969"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2017-10-24" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2017-10-24" to="2017-11-27"/>
 	</person>
     <person xml:id="SàmperMiquel">
             		<persName>
@@ -2556,7 +2556,7 @@
             		</persName>
             		<sex value="M"/>
             		<birth when="1966"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2020-09-03" to="2020-12-18"/>
+            		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2020-09-03" to="2020-12-18"/>
        </person>
 	             <person xml:id="SaladiéSergi">
 		<persName>
@@ -2565,7 +2565,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1974"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2015-10-26" to="2017-11-27"/>
 	</person>
                <person xml:id="SalellasBenet">
 		<persName>
@@ -2574,7 +2574,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1977"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="SalesMònica">
 		<persName>
@@ -2583,7 +2583,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1983-08-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="SalvadóJosep">
 		<persName>
@@ -2592,8 +2592,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1969-03-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2016-01-21"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2016-01-21"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2016-01-21"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2016-01-21"/>
 	</person>
                <person xml:id="SánchezAlfonso">
 		<persName>
@@ -2602,8 +2602,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1986-05-08"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="SánchezCarlos">
 		<persName>
@@ -2612,8 +2612,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1980"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="SànchezJordi">
 		<persName>
@@ -2622,7 +2622,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1964-10-01"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2019-05-17"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2019-05-17"/>
 	</person>
 	             <person xml:id="SànchezNatàlia">
 		<persName>
@@ -2631,7 +2631,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1983"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="SanglasMarc">
 		<persName>
@@ -2640,8 +2640,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1971-10-23"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-06-14" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-06-14" to="2020-12-18"/>
 	</person>
                <person xml:id="SansRaquel">
 		<persName>
@@ -2650,7 +2650,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1980"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-10-02" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-10-02" to="2020-12-18"/>
 	</person>
 	             <person xml:id="SanzSergi">
 		<persName>
@@ -2659,8 +2659,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1982"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
             	 <person xml:id="SegoviaSusana">
 		<persName>
@@ -2669,7 +2669,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1973"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.CatenCumú-PODEM" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="SendraJordi">
 		<persName>
@@ -2678,7 +2678,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1961-11-15"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="SenserrichMaria">
 		<persName>
@@ -2687,8 +2687,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1980"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2015-10-26" to="2020-11-24"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2015-10-26" to="2020-11-24"/>
 	</person>
 	             <person xml:id="SerraMaria">
 		<persName>
@@ -2697,7 +2697,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1951-12-18"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="SerranoDaniel">
 		<persName>
@@ -2706,7 +2706,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1976-06-18"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PP" from="2019-05-15" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PP" from="2019-05-15" to="2020-12-18"/>
 	</person>
 	             <person xml:id="SerretMeritxell">
 		<persName>
@@ -2715,7 +2715,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1975-06-19"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2018-01-29"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2018-01-29"/>
 	</person>
 	             <person xml:id="SierraSonia">
 		<persName>
@@ -2724,8 +2724,8 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1973-04-22"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="SilvaBeatriz">
 		<persName>
@@ -2734,7 +2734,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1969-09-11"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="SimóAnna">
 		<persName>
@@ -2743,7 +2743,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1968-07-26"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	</person>
 	             <person xml:id="SirventMaria">
 		<persName>
@@ -2752,7 +2752,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1987"/>
-		<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.CUP" from="2018-01-17" to="2020-12-18"/>
 	</person>
             	 <person xml:id="SoléBernat">
 		<persName>
@@ -2761,8 +2761,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1975-01-30"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
                <person xml:id="SolerJorge">
 		<persName>
@@ -2771,8 +2771,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1975"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="SolsonaMarc">
 		<persName>
@@ -2781,8 +2781,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1976-04-07"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="TarrésAnna">
 		<persName>
@@ -2791,7 +2791,7 @@
 		</persName>
 		<sex value="F"/>
 		<birth when="1967-10-19"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="TenFrancesc">
 		<persName>
@@ -2800,7 +2800,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1968-05-15"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="TerradesJordi">
 		<persName>
@@ -2809,8 +2809,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1957-01-26"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.PSC" from="2018-01-17" to="2020-12-18"/>
 	</person>
             	<person xml:id="TremosaRamon">
             		<persName>
@@ -2819,7 +2819,7 @@
             		</persName>
             		<sex value="M"/>
             		<birth when="1965-06-30"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2020-09-03" to="2020-12-18"/>
+            		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2020-09-03" to="2020-12-18"/>
             	</person>
                <person xml:id="TorraJoaquim">
 		<persName>
@@ -2828,7 +2828,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1962-12-28"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-01-20"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2020-01-20"/>
 	</person>
 	             <person xml:id="TorrentRoger">
 		<persName>
@@ -2837,7 +2837,7 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1979-07-19"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 		<affiliation ana="#PC" role="chairperson" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="TurrullJordi">
@@ -2847,8 +2847,8 @@
 		</persName>
 		<sex value="M"/>
 		<birth when="1966-09-06"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2019-05-17"/>
+		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2018-01-17" to="2019-05-17"/>
 	</person>
 	             <person xml:id="UsallRamon">
 		             <persName>
@@ -2857,7 +2857,7 @@
 		             </persName>
 		             <sex value="M"/>
 		             <birth when="1977-12-03"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.CUP" from="2015-10-26" to="2016-01-11"/>
+		             <affiliation ana="#PC" role="member" ref="#party.CUP" from="2015-10-26" to="2016-01-11"/>
 	             </person>
 	             <person xml:id="ValenciaElisabeth">
                  <persName>
@@ -2866,8 +2866,8 @@
 		             </persName>
 		             <sex value="F"/>
 		             <birth when="1980"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		             <affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		             <affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	             </person>
                <person xml:id="ValleMaria">
 		             <persName>
@@ -2876,8 +2876,8 @@
 		             </persName>
 		             <sex value="F"/>
 		             <birth when="1964"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		             <affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		             <affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	             </person>
 	             <person xml:id="VallverdúTeresa">
 		             <persName>
@@ -2886,7 +2886,7 @@
 		             </persName>
 		             <sex value="F"/>
                  <birth when="1968-02-02"/>
-                 <affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+                 <affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	             </person>
 	             <person xml:id="VehíMireia">
 		             <persName>
@@ -2895,7 +2895,7 @@
 		             </persName>
 		             <sex value="F"/>
                  <birth when="1985-02-09"/>
-	               	<affiliation ana="#PC" role="regular" ref="#party.CUP" from="2016-01-19" to="2017-11-27"/>
+	               	<affiliation ana="#PC" role="member" ref="#party.CUP" from="2016-01-19" to="2017-11-27"/>
                </person>
 	             <person xml:id="VergèsAlba">
 		             <persName>
@@ -2904,8 +2904,8 @@
 		             </persName>
 		             <sex value="F"/>
 		             <birth when="1978-09-03"/>
-                 <affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2018-06-14"/>
+                 <affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		             <affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2018-06-14"/>
 	             </person>
 	             <person xml:id="ViaplanaFrancesc">
 		             <persName>
@@ -2914,7 +2914,7 @@
 		             </persName>
 		             <sex value="M"/>
 		             <birth when="1981"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		             <affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	             </person>
 	             <person xml:id="VidalMarc">
 		             <persName>
@@ -2923,7 +2923,7 @@
 		             </persName>
 		             <sex value="M"/>
 		             <birth when="1954"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
+		             <affiliation ana="#PC" role="member" ref="#party.CSQP" from="2015-10-26" to="2017-11-27"/>
 	             </person>
             	<person xml:id="VilaSanti">
             		<persName>
@@ -2932,7 +2932,7 @@
             		</persName>
             		<sex value="M"/>
             		<birth when="1973-03-15"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2016-01-14" to="2017-07-05"/>
+            		<affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2016-01-14" to="2017-07-05"/>
             	</person>
             	<person xml:id="VillallongaMariàngela">
             		<persName>
@@ -2941,7 +2941,7 @@
             		</persName>
             		<sex value="F"/>
             		<birth when="1952-04-03"/>
-            		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2019-03-23" to="2020-09-03"/>
+            		<affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2019-03-23" to="2020-09-03"/>
             	</person>
                <person xml:id="VilaltaMarta">
 		             <persName>
@@ -2950,7 +2950,7 @@
 		             </persName>
                  <sex value="F"/>
 		             <birth when="1984-12-03"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-10-02" to="2020-12-18"/>
+		             <affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-10-02" to="2020-12-18"/>
 	             </person>
                <person xml:id="VilanovaSantiago">
 		             <persName>
@@ -2959,7 +2959,7 @@
 		             </persName>
 		             <sex value="M"/>
 		             <birth when="1947-01-09"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2020-11-17" to="2020-12-18"/>
+		             <affiliation ana="#PC" role="member" ref="#party.JxCAT" from="2020-11-17" to="2020-12-18"/>
                </person>
                <person xml:id="VílchezLaura">
 		             <persName>
@@ -2968,8 +2968,8 @@
 		             </persName>
 		             <sex value="F"/>
 		             <birth when="1979"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
+		             <affiliation ana="#PC" role="member" ref="#party.Cs" from="2015-10-26" to="2017-11-27"/>
+		             <affiliation ana="#PC" role="member" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	             </person>
 	             <person xml:id="VilellaMontserrat">
 		             <persName>
@@ -2978,7 +2978,7 @@
 		             </persName>
 		             <sex value="F"/>
 		             <birth when="1966"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
+		             <affiliation ana="#PC" role="member" ref="#party.JuntsPelSí" from="2015-10-26" to="2017-11-27"/>
 	             </person>
 	             <person xml:id="VillagrasaAlberto">
 		             <persName>
@@ -2987,7 +2987,7 @@
 		             </persName>
 		             <sex value="M"/>
 		             <birth when="1971"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
+		             <affiliation ana="#PC" role="member" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
 	             </person>
                <person xml:id="WagensbergRuben">
 		             <persName>
@@ -2996,7 +2996,7 @@
 		             </persName>
                      <sex value="M"/>
 		             <birth when="1986-09-10"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
+		             <affiliation ana="#PC" role="member" ref="#party.ERC" from="2018-01-17" to="2020-12-18"/>
 	             </person>
                  <person xml:id="XandriMarisa">
                      <persName>
@@ -3005,7 +3005,7 @@
                      </persName>
 		             <sex value="F"/>
 		             <birth when="1973-12-09"/>
-		             <affiliation ana="#PC" role="regular" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
+		             <affiliation ana="#PC" role="member" ref="#party.PP" from="2015-10-26" to="2017-11-27"/>
 	             </person>
              </listPerson>
          </particDesc>
