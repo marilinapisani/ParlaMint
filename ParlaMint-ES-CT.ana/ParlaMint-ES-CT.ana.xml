@@ -1199,7 +1199,6 @@
 			<surname>Costa i Rosselló</surname>
 		</persName>
 		<sex value="M"/>
-		<birth when="UNKNOWN"/>
 		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="CuminalJordi">
@@ -1321,7 +1320,6 @@
 			<surname>El Garbhi</surname>
 		</persName>
 		<sex value="F"/>
-		<birth when="UNKNOWN"/>
 		<affiliation ana="#PC" role="regular" ref="#party.JxCAT" from="2018-01-29" to="2020-12-18"/>
 	</person>
 	             <person xml:id="ElHomraniChakir">
@@ -1359,7 +1357,6 @@
 			<surname>Escofet Sala</surname>
 		</persName>
 		<sex value="F"/>
-	    <birth when="UNKNOWN"/>
 		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2019-05-28" to="2020-12-18"/>
 	</person>
 	             <person xml:id="EspadalerRamon">
@@ -1406,7 +1403,6 @@
 			<surname>Feijóo</surname>
 		</persName>
 		<sex value="M"/>
-		<birth when="UNKNOWN"/>
 		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2019-05-28" to="2020-12-18"/>
 	</person>
                <person xml:id="FernándezAlejandro">
@@ -2092,7 +2088,6 @@
 			<surname>Navarro Pacheco</surname>
 		</persName>
 		<sex value="F"/>
-		<birth when="UNKNOWN"/>
 		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-01-17" to="2020-12-18"/>
 	</person>
 	             <person xml:id="NiubóEsther">
@@ -2141,7 +2136,6 @@
 			<surname>Pachamé Barrera</surname>
 		</persName>
 		<sex value="M"/>
-		<birth when="UNKNOWN"/>
 		<affiliation ana="#PC" role="regular" ref="#party.Cs" from="2018-09-04" to="2020-12-18"/>
 	</person>
 	             <person xml:id="PalacinMònica">
@@ -3024,5 +3018,5 @@
       </profileDesc>
    </teiHeader>
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-		href="ParlaMint-ES-CT.xml"/>
+		href="ParlaMint-ES-CT_2015-10-26.ana.xml"/>
  </teiCorpus>
