@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:lang="ca"
-     xml:id="ParlaMint-ES-CT_2015-10-26">
+     xml:id="ParlaMint-ES-CT_2015-10-26"
+     ana="#parla.agenda #reference" >
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -122,7 +123,7 @@
                <seg xml:id="ParlaMint-ES-CT_2015-10-26.u.2.16">De conformitat amb l’article 2.2 del Reglament, procedirem ara a la lectura de la relació dels diputats i diputades electes.</seg>
                <seg xml:id="ParlaMint-ES-CT_2015-10-26.u.2.17">Prego al secretari de la Mesa d’Edat senyor Gerard Gómez del Moral i Fuster que iniciï la lectura de la relació dels membres electes per la circumscripció de Barcelona.</seg>
             </u>
-            <u xml:id="ParlaMint-ES-CT_2015-10-26.u3" xml:lang="ca">
+            <u xml:id="ParlaMint-ES-CT_2015-10-26.u3" xml:lang="ca" ana= "#member">
                <seg xml:id="ParlaMint-ES-CT_2015-10-26.u.3.0">«La Junta Electoral Provincial, en sessió tinguda el dia 9 d’octubre de 2015, d’acord amb els resultats electorals, ha proclamat diputats electes per la circumscripció de Barcelona les senyores i els senyors següents:</seg>
                <seg xml:id="ParlaMint-ES-CT_2015-10-26.u.3.1">»Junts pel Sí:</seg>
                <seg xml:id="ParlaMint-ES-CT_2015-10-26.u.3.2">»Oriol Amat i Salas</seg>
@@ -219,7 +220,7 @@
             <u xml:id="ParlaMint-ES-CT_2015-10-26.u4" who="#DeJòdarJulià" ana="#member" xml:lang="ca">
                <seg xml:id="ParlaMint-ES-CT_2015-10-26.u.4.0">Prego ara al secretari de la Mesa d’Edat senyor Joan Giner Miguélez que continuï la lectura de la relació de diputats i diputades electes per les circumscripcions de Girona, Lleida i Tarragona.</seg>
             </u>
-            <u xml:id="ParlaMint-ES-CT_2015-10-26.u5" xml:lang="ca">
+            <u xml:id="ParlaMint-ES-CT_2015-10-26.u5" xml:lang="ca" ana= "#member">
                <seg xml:id="ParlaMint-ES-CT_2015-10-26.u.5.0">«La Junta Electoral Provincial, en sessió tinguda el dia 7 d’octubre de 2015, d’acord amb els resultats electorals» –votats pel poble català exceptuant aquells joves que han hagut d’estar forçosament exiliats per motius econòmics i als quals no s'ha facilitat el seu dret a vot– «ha proclamat diputats electes per la circumscripció de Girona les senyores i els senyors següents:</seg>
                <seg xml:id="ParlaMint-ES-CT_2015-10-26.u.5.1">»Junts pel Sí:</seg>
                <seg xml:id="ParlaMint-ES-CT_2015-10-26.u.5.2">»Dolors Bassa i Coll</seg>
@@ -316,7 +317,7 @@
                <seg xml:id="ParlaMint-ES-CT_2015-10-26.u.6.21">I comencem l’escrutini.</seg>
                <seg xml:id="ParlaMint-ES-CT_2015-10-26.u.6.22">Doncs bé, de l’escrutini per a elegir secretaris de la Mesa del Parlament, el resultat de la votació és el següent: 37 vots per a Anna Simó, 36 vots per a Daniel Pérez, 25 vots per a Joan Josep Nuet i 25 vots per a Ramona Barrufet, la qual cosa vol dir que hem de desempatar entre Joan Josep Nuet i Ramona Barrufet i procedir a una nova votació.</seg>
             </u>
-            <u xml:id="ParlaMint-ES-CT_2015-10-26.u7" xml:lang="ca">
+            <u xml:id="ParlaMint-ES-CT_2015-10-26.u7" xml:lang="ca" ana= "#member">
                <seg xml:id="ParlaMint-ES-CT_2015-10-26.u.7.0">Sí, moltes gràcies, president. Amb un cas com aquest no ens hi havíem trobat mai. Si el Reglament ho permet, aquí hi havia un acord entre els grups parlamentaris en què Junts pel Sí tenia la quarta secretaria i que el Grup de Sí que es Pot tenia la tercera. Nosaltres mantenim aquesta proposta encara que hàgim quedat empatats, i, per tant, que el senyor Nuet fos el secretari tercer i la senyora Barrufet fos la secretària quarta és l’acord que teníem. Ens agradaria poder-lo complir, i no sé si la resta de grups hi estaran d’acord. Per no tornar a votar.</seg>
             </u>
             <u xml:id="ParlaMint-ES-CT_2015-10-26.u8" who="#DeJòdarJulià" ana="#member" xml:lang="ca">
