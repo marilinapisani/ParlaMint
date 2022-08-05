@@ -1,322 +1,363 @@
-Id,Name,Sex,Birth,Party,Role,Afiliation,From,To,Periods
-ForcadellCarme,Carme Forcadell i Lluís,F,1995-05-29,JuntsPelSí,chairperson,Independent,2015-10-26,2018-01-17,XI
-CorominasLluís,Lluís Corominas i Diaz,M,1963-02-14,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-Espejo-Saavedra,José María Espejo Saavedra Conesa,M,1976-07-20,C's,member,C's,2015-10-26,,XI
-SimóAnna,Anna Simó i Castelló,F,1968-07-26,JuntsPelSí,member,ERC,2015-10-26,,XI
-PérezDavid,David Pérez Ibáñez,M,1960-12-14,PSC,member,PSOE,2015-10-26,,XI
-NuetJoan,Joan Josep Nuet i Pujals,M,1964-08-06,CSQP,member,EUiA,2015-10-26,,XI
-BarrufetRamona,Ramona Barrufet i Santacana,F,1959-10-09,JuntsPelSí,member,,2015-10-26,,XI
-RoviraMarta,Marta Rovira i Vergés,F,1977-01-25,JuntsPelSí,member,ERC,2015-10-26,,XI
-BatallaAlbert,Albert Batalla i Siscart,M,1977-10-25,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-CarrizosaCarlos,Carlos Carrizosa Torres,M,1964-03-22,C's,member,C's,2015-10-26,,XI
-DePáramoFernando,Fernando de Páramo Goméz,M,1987-11-25,C's,member,C's,2015-10-26,,XI
-GranadosEva,Eva Maria Granados Galiano,F,1975-01-06,PSC,member,PSOE,2015-10-26,,XI
-PedretFerran,Ferran Pedret i Santos,M,1979-08-18,PSC,member,PSOE,2015-10-26,,XI
-CoscubielaJoan,Joan Coscubiela i Conesa,M,1954-08-16,CSQP,member,ICV,2015-10-26,,XI
-DanteAlbano,Albano Dante Fachin Pozzi,M,1976-04-22,CSQP,member,Podemos,2015-10-26,,XI
-LienasGemma,Gemma Lienas i Massot,F,1951-01-16,CSQP,member,Independent,2015-10-26,,XI
-MilloJosep,Josep Enric Millio i Rocher,M,1960-11-24,PP,member,PP,2015-10-26,,XI
-RodriguezSantiago,Santiago Rodriguez Serra,M,1964-04-18,PP,member,PP,2015-10-26,,XI
-GabrielAnna,Anna Gabriel i Sabaté,F,1975-09-13,CUP,member,CUP,2015-10-26,,XI
-BotranAlbert,Albert Botran i Pahissa,M,1984-01-14,CUP,member,CUP,2015-10-26,,XI
-ReguantEulàlia,Eulàlia Reguant Cura,F,1979-09-19,CUP,member,CUP,2015-10-26,2017-11-11,XI
-TurrullJordi,Jordi Turull Negre,M,1966-09-06,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-RomevaRaül,Raül Romeva i Rueda,M,1971-03-12,JuntsPelSí,member,Independent,2015-10-26,,XI
-CasalsMuriel,Muriel Casals i Couturier,F,1945-04-06,JuntsPelSí,member,Independent,2015-10-26,,XI
-MasArtur,Artur Mas i Gavarró,M,1956-01-31,JuntsPelSí,member,PDECAT,2015-10-26,2016-01-13,XI
-JunquerasOriol,Oriol Junqueras i Vies,M,1969-04-11,JuntsPelSí,member,ERC,2015-10-26,,XI
-ReyesEduardo,Eduardo Reyes i Pino,M,1951-04-25,JuntsPelSí,member,Independent,2015-10-26,,XI
-AmatOriol,Oriol Amat i Sales,M,1957-03-14,JuntsPelSí,member,Independent,2015-10-26,,XI
-MuntéNeus,Neus Munté i Fernàndez,F,1970-11-13,JuntsPelSí,member,PDECAT,2015-10-26,2017-01-17,XI
-PonsaÀngels,Àngels Ponsa i Roca,F,1960-03-10,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-ComínAntoni,Antoni Comín i Oliveres,M,1971-03-07,JuntsPelSí,member,Independent,2015-10-26,,XI
-RullJosep,Josep Rull i Andreu,M,1968-09-02,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-LloverasNeus,Neus Lloveras i Massana,F,1963-08-03,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-ElHomraniChakir,Chakir El Homrani Lesfar,M,1905-06-01,JuntsPelSí,member,Independent,2015-10-26,,XI
-PascalMarta,Marta Pascal i Capdevila,F,1983-04-10,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-AmorósOriol,Oriol Amorós i March,M,1970-10-24,JuntsPelSí,member,ERC,2015-10-26,2016-02-04,XI
-RigauIrene,Irene Rigau i Oliver,F,1951-06-22,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-GordòGermà,Germà Gordò i Aubarell,M,1905-05-16,JuntsPelSí,member,Independent,2015-10-26,,XI
-AragonèsPere,Pere Aragonès i Garcia,M,1982-11-16,JuntsPelSí,member,ERC,2015-10-26,2016-01-21,XI
-CastellàAntoni,Antoni Castellà i Clavè,M,1970-06-26,JuntsPelSí,member,DC,2015-10-26,,XI
-VergèsAlba,Alba Vergès i Bosch,F,1978-09-03,JuntsPelSí,member,ERC,2015-10-26,,XI
-FiguerasAnna,Anna Figueras i Ibañez,F,1905-05-22,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-BonvehíDavid,David Bonvehí i Torras,M,1905-06-01,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-SanglasMarc,Marc Sanglas i Alcantarilla,M,1971-10-23,JuntsPelSí,member,ERC,2015-10-26,,XI
-CandiniMontserrat,Montserrat Candini i Puig,F,1957-09-04,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-CasamitjanaMagdalena,Magdalena Casamitjana i Aguilà,F,1963-01-27,JuntsPelSí,member,MES,2015-10-26,,XI
-SenserrichMaria,Maria Senserrich i Guitart,F,1905-06-02,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-RamonJoan,Joan Ramon Casals i Mata,M,1974-08-02,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-GomézGerard,Gerard Goméz del Moral i Fuster,M,1989-10-17,JuntsPelSí,member,ERC,2015-10-26,,XI
-CuminalJordi,Jordi Cuminal i Roquet,M,1977-02-23,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-BelGermà,Germà Bel Queralt,M,1963-03-15,JuntsPelSí,member,Independent,2015-10-26,,XI
-PalauMontserrat,Montserrat Palau Vergès,F,1905-05-11,JuntsPelSí,member,Independent,2015-10-26,,XI
-BatetAlbert,Albert Batet Canadell,M,1979-03-05,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-CivitFerran,Ferran Civit Martí,M,1905-05-30,JuntsPelSí,member,ERC,2015-10-26,,XI
-VilellaMontserrat,Montserrat Vilella Cuadrada,F,1905-05-19,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-SalvadóJosep,Josep Lluís Salvadó Tenesa,M,1969-03-27,JuntsPelSí,member,ERC,2015-10-26,2016-01-21,XI
-SendraJordi,Jordi Miquel Sendra Vellvè,M,1961-11-15,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-RoigèMeritxell,Meritxell Roigè Pedrola,F,1976-01-15,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-VallverdúTeresa,Teresa Vallverdú Albornà,F,1968-02-02,JuntsPelSí,member,ERC,2015-10-26,,XI
-LlachLluís,Lluís Llach i Grande,M,1948-05-07,JuntsPelSí,member,Independent,2015-10-26,,XI
-CaulaAnna,Anna Caula i Paretas,F,1971-04-06,JuntsPelSí,member,Independent,2015-10-26,,XI
-PuigdemontCarles,Carles Puigdemont i Casamajò,M,1962-12-29,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-TorrentRoger,Roger Torrent i Ramió,M,1979-07-19,JuntsPelSí,member,ERC,2015-10-26,,"XI, XII"
-FiguerasNatàlia,Natàlia Figueras i Pagès,F,1989-02-07,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-BassaDolors,Dolors Bassa i Coll,F,1959-02-02,JuntsPelSí,member,ERC,2015-10-26,,XI
-GuinóLluís,Lluís Guinó i Subirós,M,1969-05-29,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-MunellJordi,Jordi Munell i Garcia,M,1965-11-17,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-SabriàSergi,Sergi Sabrià i Benito,M,1975-07-02,JuntsPelSí,member,ERC,2015-10-26,,XI
-RovirolaMaria,Maria Dolors Rovirola i Coromí,F,1905-05-13,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-OrobitgJordi,Jordi Orobitg i Solè,M,1966-10-15,JuntsPelSí,member,ERC,2015-10-26,,XI
-FornèJosep,Josep Maria Fornè i Febrer,M,1905-05-15,JuntsPelSí,member,Independent,2015-10-26,,XI
-CastellvíCarmina,Carmina Castellví i Vallverdú,F,1905-05-20,JuntsPelSí,member,Independent,2015-10-26,,XI
-SoléBernat,Bernat Solé i Barril,M,1975-01-30,JuntsPelSí,member,ERC,2015-10-26,,XI
-CerveraViolant,Violant Cervera i Gòdia,F,1969-06-13,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-FornellsMontserrat,Montserrat Fornells i Solè,F,1905-06-05,JuntsPelSí,member,ERC,2015-10-26,,XI
-SolsonaMarc,Marc Solsona i Aixalà,M,1976-04-07,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-BalaschAntoni,Antoni Balasch i Parisi,M,1958-11-02,JuntsPelSí,member,PDECAT,2015-10-26,,XI
-RodriguezDavid,David Rodriguez i González,M,1967-11-08,JuntsPelSí,member,ERC,2015-10-26,,XI
-MohedanoFabian,Fabian Mohedano i Morales,M,1905-05-28,JuntsPelSí,member,Avancem,2016-01-20,,XI
-RosellMaria,Maria Assumpta Rosell i Medall,F,1905-05-12,JuntsPelSí,member,PDECAT,2016-01-28,,XI
-LaïllaAssumpció,Assumpció Laïlla i Jou,F,1975-10-03,JuntsPelSí,member,DC,2016-02-16,,XI
-DelgadoAdriana,Adriana Delgado i Herreros,F,1905-05-31,JuntsPelSí,member,ERC,2016-02-24,,XI
-PratsCarles,Carles Prats i Cot,M,1905-05-24,JuntsPelSí,member,DC,2026-02-02,,XI
-ArrimadasInés,Inés Arrimadas,F,1981-07-03,C's,member,C's,2015-10-26,,XI
-SierraSonia,Sonia Sierra Infante,F,1973-04-22,C's,member,C's,2015-10-26,,XI
-EspinosaAntonio,Antonio Espinosa Cerrato,M,1905-05-12,C's,member,C's,2015-10-26,,XI
-HervíasFran,Fran Hervías Chirosa,M,1983-09-28,C's,member,C's,2015-10-26,2016-01-11,XI
-BeltránSusana,Susana Beltrán Garcia,F,1905-05-19,C's,member,Independent,2015-10-26,,XI
-MejíaDavid,David Mejía Ayra,M,1905-06-06,C's,member,C's,2015-10-26,,XI
-BravoMarina,Marina Bravo Sobrino,F,1905-05-31,C's,member,Independent,2015-10-26,,XI
-GarcíaJoan,Joan García González,M,1905-05-28,C's,member,C's,2015-10-26,,XI
-GalianoJesús,Jesús Galiano Gutierrez,M,1905-05-04,C's,member,C's,2015-10-26,2016-03-15,XI
-ValleMaria,Maria Francisca Valle Fuentes,F,1905-05-17,C's,member,C's,2015-10-26,,XI
-DelaCalleNoemí,Noemí de la Calle Sifré,F,1905-06-01,C's,member,C's,2015-10-26,,XI
-SanzSergi,Sergi Sanz Jiménez,M,1905-06-04,C's,member,C's,2015-10-26,,XI
-DeRiveraCarmen,Carmen de Rivera Pla,F,1956-04-18,C's,member,C's,2015-10-26,,XI
-VílchezLaura,Laura Vílchez Sánchez,F,1905-06-01,C's,member,C's,2015-10-26,,XI
-ValenciaElisabeth,Elisabeth Valencia Mimbrero,F,1905-06-02,C's,member,C's,2015-10-26,,XI
-BarraMartin,Martin Eusebio Barra López,M,1905-05-09,C's,member,C's,2015-10-26,,XI
-CastelJean,Jean Castel Sucarrat,M,1966-03-18,C's,member,C's,2015-10-26,,XI
-SánchezAlfonso,Alfonso Sánchez Fisac,M,1986-05-08,C's,member,C's,2015-10-26,,XI
-SolerJorge,Jorge Soler Gonzaléz,M,1905-05-28,C's,member,C's,2015-10-26,,XI
-RivasJavier,Javier Rivas Escamilla,M,1905-05-16,C's,member,C's,2015-10-26,,XI
-AlonsoMatías,Matías Alonso Ruiz,M,1952-04-08,C's,member,C's,2015-10-26,,XI
-DomínguezFrancisco,Francisco Javier Domínguez Serrano,M,1905-05-21,C's,member,C's,2015-10-26,,XI
-SánchezCarlos,Carlos Sánchez Martin,M,1905-06-02,C's,member,C's,2015-10-26,,XI
-RoldánLorena,Lorena Roldán Suárez,F,1981-08-07,C's,member,C's,2015-10-26,,XI
-IcetaMiquel,Miquel Iceta i Llorens,M,1960-08-17,PSC,member,PSOE,2015-10-26,,XI
-RomeroAlícia,Alícia Romero Llano,F,1976-06-20,PSC,member,PSOE,2015-10-26,,XI
-TerradesJordi,Jordi Terrades i Santacreu,M,1957-01-26,PSC,member,PSOE,2015-10-26,,XI
-EscarpAssumpta,Assumpta Escarp Gibert,F,1905-05-10,PSC,member,PSOE,2015-10-26,,XI
-NiubóEsther,Esther Niubó Cindoncha,F,1980-10-01,PSC,member,PSOE,2015-10-26,,XI
-GibertPol,Pol Gibert Horcas,M,1987-04-04,PSC,member,PSOE,2015-10-26,,XI
-MoretaMarta,Marta Moreta Rovira,F,1969-01-20,PSC,member,PSOE,2015-10-26,,XI
-MorenoRaúl,Raúl Moreno Montaña,M,1978-12-20,PSC,member,PSOE,2015-10-26,,XI
-MartínezEva,Eva Maria Martínez Morales,F,1976-07-26,PSC,member,PSOE,2015-10-26,,XI
-BrugueraRafel,Rafel Bruguera Batalla,M,1956-10-11,PSC,member,PSOE,2015-10-26,,XI
-OrdeigÒscar,Òscar Ordeig Molist,M,1978-03-14,PSC,member,PSOE,2015-10-26,,XI
-CastilloCarlos,Carlos Castillo Rosique,M,1905-05-28,PSC,member,PSOE,2015-10-26,,XI
-IbarraRosa,Rosa M. Ibarra Ollé,F,1969-07-26,PSC,member,PSOE,2015-10-26,,XI
-FrancoJosep,Josep Lluís Franco Rabell,M,1954-02-17,CSQP,member,Independent,2015-10-26,,XI
-MartínezÀngels,Àngels Martínez i Castells,F,1948-05-09,CSQP,member,EUiA,2015-10-26,,XI
-AlbiachJèssica,Jèssica Albiach Satorres,F,1979-05-29,CSQP,member,Podemos,2015-10-26,,XI
-GinerJoan,Joan Giner Miguelez,M,1989-07-26,CSQP,member,,2015-10-26,,XI
-RibasMarta,Marta Ribas Frías,F,1905-05-28,CSQP,member,ICV,2015-10-26,,XI
-VidalMarc,Marc Vidal i Pou,M,1905-05-07,CSQP,member,ICV,2015-10-26,,XI
-BargallóGerard,Gerard Bargalló Voivin,M,1977-12-02,CSQP,member,,2015-10-26,2015-11-30,XI
-GrauHortènsia,Hortènsia Grau Juan,F,1905-05-13,CSQP,member,ICV,2015-11-06,,XI
-GarcíaXavier,Xavier García Albiol,M,1967-12-08,PP,member,PP,2015-10-26,,XI
-LevyAndrea,Andrea Levy Soler,F,1984-05-03,PP,member,PP,2015-10-26,,XI
-GallegoAntonio,Antonio Gallego Burgos,M,1975-10-02,PP,member,PP,2015-10-26,,XI
-GarcíaEsperanza,Esperanza García González,F,1905-05-28,PP,member,PP,2015-10-26,,XI
-VillagrasaAlberto,Alberto Villagrasa Gil,M,1905-05-24,PP,member,PP,2015-10-26,,XI
-GarcíaMJose,Mª José García Cuevas,F,1964-03-18,PP,member,PP,2015-10-26,,XI
-MilllanJuan,Juan Millan Querol,M,1981-08-27,PP,member,PP,2015-10-26,,XI
-XandriMarisa,Marisa Xandri Pujol,F,1973-12-09,PP,member,PP,2015-10-26,,XI
-FernándezAlejandro,Alejandro Fernández Álvarez,M,1976-05-30,PP,member,PP,2015-10-26,,XI
-BañosAntonio,Antonio Baños Boncompain,M,1967-04-18,CUP,member,Independent,2015-10-26,2016-01-12,XI
-BusquetaJosep,Josep Manel Busqueta i Franco,M,1905-05-26,CUP,member,CUP,2015-10-26,2016-01-12,XI
-SerraMaria,Maria Gabriela Serra i Frediani,F,1951-12-18,CUP,member,Independent,2015-10-26,,XI
-DeJòdarJulià,Julià de Jòdar i Muñoz,M,1942-12-28,CUP,member,Independent,2015-10-26,2016-01-11,XI
-GarrigaJoan,Joan Garriga i Quadres,M,1905-05-06,CUP,member,CUP,2016-01-19,,XI
-VehíMireia,Mireia Vehí i Cantenys,F,1985-02-09,CUP,member,CUP,2016-01-19,,XI
-CastillejoPilar,Pilar Castillejo i Medina,F,1905-05-22,CUP,member,CUP,2016-02-16,2016-10-14,XI
-RieraCarles,Carles Riera i Albert,M,1905-05-13,CUP,member,CUP,2016-10-26,,XI
-SafontXavier,Xavier Safont-Tria i Ramon,M,1905-05-22,CUP,member,CUP,2017-10-24,,XI
-SalellasBenet,Benet Salellas i Vilar,F,1905-05-30,CUP,member,CUP,2015-10-26,,XI
-UsallRamon,Ramon Usall i Santa,M,1977-12-03,CUP,member,Independent,2015-10-26,2016-01-11,XI
-BoyaMireia,Mireia Boya e Busquet,F,1979-11-28,CUP,member,CUP,2016-01-19,,XI
-SaladiéSergi,Sergi Saladié i Gil,M,1905-05-27,CUP,member,Independent,2015-10-26,,XI
-TorrentRoger,Roger Torrent i Ramió,M,1979-07-19,ERC,chairperson,ERC,2018-01-17,,XII
-CostaJosep,Josep Costa i Rosselló,M,,JxCAT,member,Independent,2018-01-17,,XII
-GarcíaJoan,Joan García González,M,1905-05-28,C's,member,C's,2018-01-17,,XII
-CampdepadrósEusebi,Eusebi Campdepadrós i Pucurull,M,1961-09-23,JxCAT,member,ERC,2018-01-17,,XII
-PérezDavid,David Pérez Ibáñez,M,1960-12-14,PSC,member,PSOE,2018-01-17,,XII
-VílchezLaura,Laura Vílchez Sánchez,F,1905-06-01,C's,member,C's,2018-01-17,,XII
-RibasRut,Rut Ribas i Martí ,F,1905-06-12,ERC,member,ERC,2018-01-17,,XII
-RoldánLorena,Lorena Roldán Suárez,F,1981-08-07,C's,member,C's,2018-01-17,,XII
-BravoMarina,Marina Bravo Sobrino,F,1905-05-31,C's,member,C's,2018-01-17,,XII
-GeisGemma,Gemma Geis i Carreras,F,,JxCAT,member,Independent,2018-01-17,,XII
-FornèJosep,Josep Maria Fornè i Febrer,M,1905-05-15,JxCAT,member,Independent,2018-01-17,,XII
-CaulaAnna,Anna Caula i Paretas,F,1971-04-06,ERC,member,Independent,2018-01-17,,XII
-JovéJosep,Josep Maria Jové i Lladó,M,1905-06-01,ERC,member,ERC,2018-01-17,,XII
-GranadosEva,Eva Maria Granados Galiano,F,1975-01-06,PSC,member,PSOE,2018-01-17,,XII
-PedretFerran,Ferran Pedret i Santos,M,1979-08-18,PSC,member,PSOE,2018-01-17,,XII
-SegoviaSusana,Susana Segovia Sánchez,F,1905-05-26,CatenCumú-PODEM,member,CatenCumú-PODEM,2018-01-17,,XII
-RibasMarta,Marta Ribas Frías,F,1905-05-28,CatenCumú-PODEM,member,CatenCumú-PODEM,2018-01-17,,XII
-RieraCarles,Carles Riera i Albert,M,1905-05-13,CUP,member,CUP,2018-01-17,,XII
-FernándezAlejandro,Alejandro Fernández Álvarez,M,1976-05-30,PP,member,PP,2018-01-17,,XII
-ArrimadasInés,Inés Arrimadas,F,1981-07-03,C's,member,C's,2018-01-17,,XII
-CarrizosaCarlos,Carlos Carrizosa Torres,M,1964-03-22,C's,member,C's,2018-01-17,,XII
-Espejo-Saavedra,José María Espejo Saavedra Conesa,M,1976-07-20,C's,member,C's,2018-01-17,2019-05-20,XII
-DePáramoFernando,Fernando de Páramo Goméz,M,1987-11-25,C's,member,C's,2018-01-17,2018-07-31,XII
-SierraSonia,Sonia Sierra Infante,F,1973-04-22,C's,member,C's,2018-01-17,,XII
-MartínIgnacio,Ignacio Martín Blanco,M,1982-08-02,C's,member,C's,2018-01-17,,XII
-MejíaDavid,David Mejía Ayra,M,1905-06-06,C's,member,C's,2018-01-17,,XII
-DelaCalleNoemí,Noemí de la Calle Sifré,F,1905-06-01,C's,member,C's,2018-01-17,,XII
-EspinosaAntonio,Antonio Espinosa Cerrato,M,1905-05-12,C's,member,C's,2018-01-17,,XII
-BeltránSusana,Susana Beltrán Garcia,F,1905-05-19,C's,member,Independent,2018-01-17,,XII
-GuilarteMaria,Maria Luz Guilarte Sánchez,F,1905-05-24,C's,member,C's,2018-01-17,2019-07-18,XII
-BarraMartin,Martin Eusebio Barra López,M,1905-05-09,C's,member,C's,2018-01-17,,XII
-NavarroBlanca,Blanca Victoria Navarro Pacheco,F,?,C's,member,C's,2018-01-17,,XII
-CanoJose,José María Cano Navarro,M,1969-02-18,C's,member,C's,2018-01-17,,XII
-SanzSergi,Sergi Sanz Jiménez,M,1905-06-04,C's,member,C's,2018-01-17,,XII
-DeRiveraCarmen,Carmen de Rivera Pla,F,1956-04-18,C's,member,C's,2018-01-17,,XII
-ValenciaElisabeth,Elisabeth Valencia Mimbrero,F,1905-06-02,C's,member,C's,2018-01-17,,XII
-ValleMaria,Maria Francisca Valle Fuentes,F,1905-05-17,C's,member,C's,2018-01-17,,XII
-FernándezMunia,Munia Fernández-Jordán Celorio,F,1905-05-25,C's,member,C's,2018-01-17,,XII
-GrageraDimas,Dimas Gragera Velaz,M,1984-03-25,C's,member,C's,2018-01-17,,XII
-RodriguezManuel,Manuel Rodriguez de l'Hotellerie de Fallois,M,?,C's,member,C's,2018-01-17,,XII
-PachaméMartí,Martí Pachamé Barrera,M,?,C's,member,C's,2018-09-04,,XII
-FeijóoJorge,Jorge Feijóo,M,?,C's,member,C's,2019-05-28,,XII
-LosadaManuel,Manuel Losada Seivane,M,1970-08-14,C's,member,C's,2019-07-18,,XII
-EscofetMercè,Mercè Escofet Sala,F,?,C's,member,C's,2019-05-28,,XII
-CastelJean,Jean Castel Sucarrat,M,1966-03-18,C's,member,C's,2018-01-17,,XII
-SánchezAlfonso,Alfonso Sánchez Fisac,M,1986-05-08,C's,member,C's,2018-01-17,,XII
-AmellòHéctor,Héctor Amellò Montiu,M,1905-05-30,C's,member,C's,2018-01-17,,XII
-DelCaminoMaria,Maria del Camino Fernández Riol,F,1905-05-28,C's,member,C's,2018-01-17,,XII
-SolerJorge,Jorge Soler Gonzaléz,M,1905-05-28,C's,member,C's,2018-01-17,,XII
-RivasJavier,Javier Rivas Escamilla,M,1905-05-16,C's,member,C's,2018-01-17,,XII
-BetranDavid,David Betran Román,M,1989-08-26,C's,member,C's,2018-01-17,,XII
-AlonsoMatías,Matías Alonso Ruiz,M,1952-04-08,C's,member,C's,2018-01-17,,XII
-DomínguezFrancisco,Francisco Javier Domínguez Serrano,M,1905-05-21,C's,member,C's,2018-01-17,,XII
-SánchezCarlos,Carlos Sánchez Martin,M,1905-06-02,C's,member,C's,2018-01-17,,XII
-FernándezMaialen,Maialen Fernández Cabezas,F,1905-05-27,C's,member,C's,2018-01-17,,XII
-PuigdemontCarles,Carles Puigdemont i Casamajò,M,1962-12-29,JxCAT,member,PDECAT,2018-01-17,2020-01-07,XII
-SànchezJordi,Jordi Sànchez i Picanyol,M,1964-10-01,JxCAT,member,Independent,2018-01-17,2019-05-17,XII
-PonsetiClara,Clara Ponseti i Obiols,F,1957-03-19,JxCAT,member,Independent,2018-01-17,2018-01-29,XII
-TurrullJordi,Jordi Turull Negre,M,1966-09-06,JxCAT,member,PDECAT,2018-01-17,2019-05-17,XII
-BorràsLaura,Laura Borràs i Castanyer,F,1970-10-05,JxCAT,member,Independent,2018-01-17,2019-05-20,XII
-RullJosep,Josep Rull i Andreu,M,1968-09-02,JxCAT,member,PDECAT,2018-01-17,2019-05-17,XII
-FornJoaquim,Joaquim Forn i Chiariello,M,1964-04-01,JxCAT,member,PDECAT,2018-01-17,2018-01-23,XII
-PujolEduard,Eduard Pujol i Bonell,M,1969-10-13,JxCAT,member,Independent,2018-01-17,2020-10-27,XII
-MadaulaAurora,Aurora Madaula i Giménez,F,1978-11-12,JxCAT,member,Independent,2018-01-17,,XII
-ArtadiElsa,Elsa Artadi i Vila,F,1976-08-19,JxCAT,member,Independent,2018-01-17,,XII
-TorraJoaquim,Joaquim Torra i Pla,M,1962-12-28,JxCAT,member,,2018-01-17,2020-01-20,XII
-FontLluís,Lluís Font i Espinós,M,1905-05-11,JxCAT,member,Independent,2018-01-17,,XII
-RieraJosep,Josep Riera i Font,M,1905-05-16,JxCAT,member,Independent,2018-01-17,,XII
-TarrésAnna,Anna Tarrés i Campa,F,1967-10-19,JxCAT,member,Independent,2018-01-17,,XII
-FerrerMaria,Maria Isabel Ferrer i Àlvarez,F,1905-05-16,JxCAT,member,Independent,2018-01-17,2018-06-08,XII
-DalmasesFrancesc,Francesc de Dalmases i Thió,M,1905-05-23,JxCAT,member,Independent,2018-01-17,,XII
-MorralAntoni,Antoni Morral i Berenguer,M,1957-08-26,JxCAT,member,Independent,2018-01-23,,XII
-ElGarbhiSawia,Sawia El Garbhi,F,?,JxCAT,member,Independent,2018-01-29,,XII
-ErraAnna,Anna Erra i Solà,F,1965-10-07,JxCAT,member,PDECAT,2018-06-19,,XII
-BuchMiquel,Miquel Buch i Moya,M,1975-08-03,JxCAT,member,PDECAT,2019-05-28,,XII
-FortMaria,Maria Elena Fort i Cisneros,F,1905-05-23,JxCAT,member,Independent,2019-05-25,,XII
-PuigJosep,Josep Puig i Boix,M,1905-04-30,JxCAT,member,Independent,2019-05-28,,XII
-FreixaGlòria,Glòria Freixa i Vilardell,F,1905-05-22,JxCAT,member,,2019-05-28,,XII
-MascarellFerran,Ferran Mascarell i Canalda,M,1905-05-04,JxCAT,member,Independent,2020-02-04,,XII
-SenserrichMaria,Maria Senserrich i Guitart,F,1905-06-02,JxCAT,member,PDECAT,2015-10-26,2020-11-24,XII
-VilanovaSantiago,Santiago Vilanova i Tané,M,1947-01-09,JxCAT,member,Independent,2020-11-17,,XII
-PuigLluís,Lluís Puig i Gordi,M,1959-10-18,JxCAT,member,PDECAT,2018-01-17,2018-01-29,XII
-MadrenasMarta,Marta Madrenas i Mir,F,1967-11-01,JxCAT,member,PDECAT,2018-01-17,,XII
-ClaraNarcis,Narcis Clara i Lloret,M,1905-05-13,JxCAT,member,Independent,2018-01-17,,XII
-GuinóLluís,Lluís Guinó i Subirós,M,1969-05-29,JxCAT,member,PDECAT,2018-01-17,,XII
-MunellJordi,Jordi Munell i Garcia,M,1965-11-17,JxCAT,member,PDECAT,2018-01-17,,XII
-TenFrancesc,Francesc Xavier Ten i Costa,M,1968-05-15,JxCAT,member,Independent,2018-01-17,,XII
-RoquerFerran,Ferran Roquer Padrosa,M,1967-12-06,JxCAT,member,PDECAT,2018-01-29,,XII
-SolsonaMarc,Marc Solsona i Aixalà,M,1976-04-07,JxCAT,member,PDECAT,2018-01-17,,XII
-GallardoImma,Imma Gallardo Barceló,F,1966-09-12,JxCAT,member,PDECAT,2018-01-17,,XII
-QuinquillàXavier,Xavier Quinquillà Durich,M,1905-05-22,JxCAT,member,Independent,2018-01-17,,XII
-MaciàMontserrat,Montserrat Macià Gou,F,1905-05-15,JxCAT,member,Independent,2018-01-17,,XII
-GeliAnna,Anna Geli España,F,1905-05-31,JxCAT,member,Independent,2018-01-17,,XII
-PallarèsTeresa,Teresa Pallarès Piqué,F,1905-05-17,JxCAT,member,Independent,2018-01-17,,XII
-BatetAlbert,Albert Batet Canadell,M,1979-03-05,JxCAT,member,PDECAT,2018-01-17,,XII
-SalesMònica,Mònica Sales de la Cruz,F,1983-08-27,JxCAT,member,PDECAT,2018-01-17,,XII
-RomevaRaül,Raül Romeva i Rueda,M,1971-03-12,ERC,member,Independent,2018-01-17,2019-10-29,XII
-JunquerasOriol,Oriol Junqueras i Vies,M,1969-04-11,ERC,member,ERC,2018-01-17,2019-05-20,XII
-ComínAntoni,Antoni Comín i Oliveres,M,1971-03-07,ERC,member,ERC,2018-01-17,2020-01-07,XII
-VergèsAlba,Alba Vergès i Bosch,F,1978-09-03,ERC,member,ERC,2018-01-17,2018-06-14,XII
-ForcadellCarme,Carme Forcadell i Lluís,F,1995-05-29,ERC,member,ERC,2018-01-17,2018-03-22,XII
-RoviraMarta,Marta Rovira i Vergés,F,1977-01-25,ERC,member,ERC,2018-01-17,2018-03-22,XII
-DiazJenn,Jenn Diaz Ruiz,F,1988-04-25,ERC,member,Independent,2018-01-17,,XII
-WagensbergRuben,Ruben Wagensberg,M,1986-09-10,ERC,member,Independent,2018-01-17,,XII
-DriouechNajat,Najat Driouech Ben Moussa,F,1905-06-03,ERC,member,Independent,2018-01-17,,XII
-BaróEva,Eva Baró i Ramos,F,1974-10-23,ERC,member,ERC,2018-01-17,2019-07-16,XII
-MaragallErnest,Ernest Maragall i Mira,M,1943-01-05,ERC,member,MES,2018-01-17,,XII
-CastellàAntoni,Antoni Castellà i Clavè,M,1970-06-26,ERC,member,DC,2018-01-17,,XII
-DelgadoAdriana,Adriana Delgado i Herreros,F,1905-05-31,ERC,member,ERC,2018-01-17,,XII
-AlbertJordi,Jordi Albert i Caballero,M,1978-02-14,ERC,member,ERC,2018-01-17,,XII
-PalacinMònica,Mònica Palacin i París,F,1972-10-30,ERC,member,ERC,2018-01-17,,XII
-ElHomraniChakir,Chakir El Homrani Lesfar,M,1905-06-01,ERC,member,ERC,2018-03-23,2018-06-14,XII
-SanglasMarc,Marc Sanglas i Alcantarilla,M,1971-10-23,ERC,member,ERC,2018-06-14,,XII
-GomézGerard,Gerard Goméz del Moral i Fuster,M,1989-10-17,ERC,member,ERC,2018-01-17,,XII
-LaïllaAssumpció,Assumpció Laïlla i Jou,F,1975-10-03,ERC,member,DC,2018-03-23,,XII
-LlopLluïsa,Lluïsa Llop i Fernàndez,F,1970-12-19,ERC,member,ERC,2018-06-14,,XII
-PicasNúria,Núria Picas i Albets,F,1976-11-02,ERC,member,ERC,2019-05-28,,XII
-RodriguezJosé,José Rodriguez Fernández,M,1905-05-29,ERC,member,ERC,2019-05-28,,XII
-CarbonellAurora,Aurora Carbonell i Abella,F,1905-05-19,ERC,member,ERC,2019-07-25,,XII
-MetgeAlba,Alba Metge i Climent,F,1982-10-15,ERC,member,ERC,2020-01-22,,XII
-SerretMeritxell,Meritxell Serret i Aleu,F,1975-06-19,ERC,member,ERC,2018-01-17,2018-01-29,XII
-ReyesEduardo,Eduardo Reyes i Pino,M,1951-04-25,ERC,member,Independent,2019-11-26,,XII
-CasamitjanaMagdalena,Magdalena Casamitjana i Aguilà,F,1963-01-27,ERC,member,MES,2018-03-23,2018-11-30,XII
-BassaDolors,Dolors Bassa i Coll,F,1959-02-02,ERC,member,ERC,2018-01-17,2018-03-22,XII
-SabriàSergi,Sergi Sabrià i Benito,M,1975-07-02,ERC,member,ERC,2018-01-17,,XII
-OrobitgJordi,Jordi Orobitg i Solè,M,1966-10-15,ERC,member,ERC,2018-12-11,,XII
-SoléBernat,Bernat Solé i Barril,M,1975-01-30,ERC,member,ERC,2018-01-17,,XII
-EspigaresGemma,Gemma Espigares i Tribño,M,1905-06-10,ERC,member,ERC,2018-01-17,,XII
-ViaplanaFrancesc,Francesc Viaplana i Manresa,M,1905-06-03,ERC,member,Independent,2018-01-17,,XII
-CivitFerran,Ferran Civit Martí,M,1905-05-30,ERC,member,ERC,2018-01-17,,XII
-SalvadóJosep,Josep Lluís Salvadó Tenesa,M,1969-03-27,ERC,member,ERC,2018-01-17,42390,XII
-FornellsMontserrat,Montserrat Fornells i Solè,F,1905-06-05,ERC,member,ERC,2018-01-17,,XII
-RodriguezDavid,David Rodriguez i González,M,1967-11-08,ERC,member,ERC,2018-01-29,43363,XII
-VilaltaMarta,Marta Vilalta i Torres,F,1984-12-03,ERC,member,ERC,2018-10-02,,XII
-PerisÒscar,Òscar Peris i Ròdenas,M,1974-04-30,ERC,member,ERC,2018-01-17,43305,XII
-SansRaquel,Raquel Sans i Guerra,F,1905-06-02,ERC,member,ERC,2018-10-02,,XII
-LlauradóNoemi,Noemi Llauradó i Sans,F,1978-06-04,ERC,member,ERC,2018-01-17,,XII
-FornósIrene,Irene Fornós i Curto,F,1980-08-17,ERC,member,ERC,2018-01-17,,XII
-SirventMaria,Maria Sirvent Escrig,F,1905-06-09,CUP,member,CUP,2018-01-17,,XII
-AragonèsPere,Vidal Aragonés Chicharro,M,1978-04-09,CUP,member,CUP,2018-01-17,,XII
-SànchezNatàlia,Natàlia Sànchez Dipp,F,1905-06-05,CUP,member,CUP,2018-01-17,,XII
-GarcíaXavier,Xavier García Albiol,M,1967-12-08,PP,member,PP,2018-01-17,43496,XII
-LevyAndrea,Andrea Levy Soler,F,1984-05-03,PP,member,PP,2018-01-17,43594,XII
-GarcíaEsperanza,Esperanza García González,F,1905-05-28,PP,member,PP,2019-02-06,44110,XII
-RodriguezSantiago,Santiago Rodriguez Serra,M,1964-04-18,PP,member,PP,2018-01-17,,XII
-SerranoDaniel,Daniel Serrano Coronado,M,1976-06-18,PP,member,PP,2019-05-15,,XII
-ReyesManuel,Manuel Reyes López,M,1976-05-16,PP,member,PP,2020-10-13,,XII
-IcetaMiquel,Miquel Iceta i Llorens,M,1960-08-17,PSC,member,PSOE,2018-01-17,,XII
-RomeroAlícia,Alícia Romero Llano,F,1976-06-20,PSC,member,PSOE,2018-01-17,,XII
-TerradesJordi,Jordi Terrades i Santacreu,M,1957-01-26,PSC,member,PSOE,2018-01-17,,XII
-EscarpAssumpta,Assumpta Escarp Gibert,F,1905-05-10,PSC,member,PSOE,2018-01-17,,XII
-NiubóEsther,Esther Niubó Cindoncha,F,1980-10-01,PSC,member,PSOE,2018-01-17,,XII
-GibertPol,Pol Gibert Horcas,M,1987-04-04,PSC,member,PSOE,2018-01-17,,XII
-MoretaMarta,Marta Moreta Rovira,F,1969-01-20,PSC,member,PSOE,2018-01-17,,XII
-MorenoRaúl,Raúl Moreno Montaña,M,1978-12-20,PSC,member,PSOE,2018-01-17,,XII
-EspadalerRamon,Ramon Espadaler i Parcerisas,M,1963-09-19,PSC,member,PSOE,2018-01-17,,XII
-SilvaBeatriz,Beatriz Silva Gallardo,F,1969-09-11,PSC,member,PSOE,2018-01-17,,XII
-BrugueraRafel,Rafel Bruguera Batalla ,M,1956-10-11,PSC,member,PSOE,2018-01-17,,XII
-OrdeigÒscar,Òscar Ordeig Molist,M,1978-03-14,PSC,member,PSOE,2018-01-17,,XII
-CastilloCarlos,Carlos Castillo Rosique,M,1905-05-28,PSC,member,PSOE,2018-01-17,44088,XII
-IbarraRosa,Rosa M. Ibarra Ollé,F,1969-07-26,PSC,member,PSOE,2018-01-17,,XII
-CaballolJoan,Joan Antoni Caballol i Angelats,M,1905-05-17,PSC,member,Units,2020-09-18,,XII
-DomènechXavier,Xavier Domènech i Sampere,M,1974-12-02,CatenCumú-PODEM,member,CatenCumú-PODEM,2018-01-17,43355,XII
-AlamanyElisenda,Elisenda Alamany Gutiérrez,F,1905-06-05,CatenCumú-PODEM,member,CatenCumú-PODEM,2018-01-17,43557,XII
-AlbiachJèssica,Jèssica Albiach Satorres,F,1979-05-29,CatenCumú-PODEM,member,Podemos,2018-01-17,,XII
-NuetJoan,Joan Josep Nuet i Pujals,M,1964-08-06,CatenCumú-PODEM,member,CatenCumú-PODEM,2018-01-17,43544,XII
-CidDavid,David Cid Colomer,M,1905-06-02,CatenCumú-PODEM,member,CatenCumú-PODEM,2018-01-17,,XII
-FerroLucas,Lucas Silvano Ferro Solé,M,1905-06-12,CatenCumú-PODEM,member,CatenCumú-PODEM,2018-09-26,,XII
-ParésMarc,Marc Parés Franzi,M,1979-02-24,CatenCumú-PODEM,member,CatenCumú-PODEM,2019-03-04,,XII
-AbellánConcepción,Concepción Abellán Carretero,F,1984-06-10,CatenCumú-PODEM,member,Podemos,2019-04-16,,XII
-LópezYolanda,Yolanda López Fernández,F,1905-05-19,CatenCumú-PODEM,member,Podemos,2018-01-17,,XII
+Id,Name,Name_transcription,Sex,Birth,Party,Role,Afiliation,From,To,Periods
+ForcadellCarme,Carme Forcadell i Lluís,,F,1995-05-29,JuntsPelSí,chairperson,Independent,2015-10-26,2018-01-17,XI
+CorominasLluís,Lluís Corominas i Diaz,,M,1963-02-14,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+Espejo-Saavedra,José María Espejo Saavedra Conesa,,M,1976-07-20,C's,member,C's,2015-10-26,,XI
+SimóAnna,Anna Simó i Castelló,,F,1968-07-26,JuntsPelSí,member,ERC,2015-10-26,,XI
+PérezDavid,David Pérez Ibáñez,,M,1960-12-14,PSC,member,PSOE,2015-10-26,,XI
+NuetJoan,Joan Josep Nuet i Pujals,,M,1964-08-06,CSQP,member,EUiA,2015-10-26,,XI
+BarrufetRamona,Ramona Barrufet i Santacana,,F,1959-10-09,JuntsPelSí,member,,2015-10-26,,XI
+RoviraMarta,Marta Rovira i Vergés,,F,1977-01-25,JuntsPelSí,member,ERC,2015-10-26,,XI
+BatallaAlbert,Albert Batalla i Siscart,,M,1977-10-25,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+CarrizosaCarlos,Carlos Carrizosa Torres,,M,1964-03-22,C's,member,C's,2015-10-26,,XI
+DePáramoFernando,Fernando de Páramo Goméz,,M,1987-11-25,C's,member,C's,2015-10-26,,XI
+GranadosEva,Eva Maria Granados Galiano,,F,1975-01-06,PSC,member,PSOE,2015-10-26,,XI
+PedretFerran,Ferran Pedret i Santos,,M,1979-08-18,PSC,member,PSOE,2015-10-26,,XI
+CoscubielaJoan,Joan Coscubiela Conesa,,M,1954-08-16,CSQP,member,ICV,2015-10-26,,XI
+DanteAlbano,Albano Dante Fachin Pozzi,,M,1976-04-22,CSQP,member,Podemos,2015-10-26,,XI
+LienasGemma,Gemma Lienas i Massot,,F,1951-01-16,CSQP,member,Independent,2015-10-26,,XI
+MilloJosep,Josep Enric Millio i Rocher,,M,1960-11-24,PP,member,PP,2015-10-26,,XI
+RodriguezSantiago,Santiago Rodriguez Serra,,M,1964-04-18,PP,member,PP,2015-10-26,,XI
+GabrielAnna,Anna Gabriel i Sabaté,,F,1975-09-13,CUP,member,CUP,2015-10-26,,XI
+BotranAlbert,Albert Botran i Pahissa,,M,1984-01-14,CUP,member,CUP,2015-10-26,,XI
+ReguantEulàlia,Eulàlia Reguant Cura,,F,1979-09-19,CUP,member,CUP,2015-10-26,2017-11-11,XI
+TurrullJordi,Jordi Turull Negre,,M,1966-09-06,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+RomevaRaül,Raül Romeva i Rueda,,M,1971-03-12,JuntsPelSí,member,Independent,2015-10-26,,XI
+CasalsMuriel,Muriel Casals i Couturier,,F,1945-04-06,JuntsPelSí,member,Independent,2015-10-26,,XI
+MasArtur,Artur Mas i Gavarró,,M,1956-01-31,JuntsPelSí,member,PDECAT,2015-10-26,2016-01-13,XI
+JunquerasOriol,Oriol Junqueras i Vies,,M,1969-04-11,JuntsPelSí,member,ERC,2015-10-26,,XI
+ReyesEduardo,Eduardo Reyes i Pino,,M,1951-04-25,JuntsPelSí,member,Independent,2015-10-26,,XI
+AmatOriol,Oriol Amat i Sales,,M,1957-03-14,JuntsPelSí,member,Independent,2015-10-26,,XI
+MuntéNeus,Neus Munté i Fernàndez,,F,1970-11-13,JuntsPelSí,member,PDECAT,2015-10-26,2017-01-17,XI
+PonsaÀngels,Àngels Ponsa i Roca,,F,1960-03-10,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+ComínAntoni,Antoni Comín i Oliveres,,M,1971-03-07,JuntsPelSí,member,Independent,2015-10-26,,XI
+RullJosep,Josep Rull i Andreu,,M,1968-09-02,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+LloverasNeus,Neus Lloveras i Massana,,F,1963-08-03,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+ElHomraniChakir,Chakir El Homrani Lesfar,,M,1905-06-01,JuntsPelSí,member,Independent,2015-10-26,,XI
+PascalMarta,Marta Pascal i Capdevila,,F,1983-04-10,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+AmorósOriol,Oriol Amorós i March,,M,1970-10-24,JuntsPelSí,member,ERC,2015-10-26,2016-02-04,XI
+RigauIrene,Irene Rigau i Oliver,,F,1951-06-22,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+GordòGermà,Germà Gordò i Aubarell,,M,1905-05-16,JuntsPelSí,member,Independent,2015-10-26,,XI
+AragonèsPere,Pere Aragonès i Garcia,,M,1982-11-16,JuntsPelSí,member,ERC,2015-10-26,2016-01-21,XI
+CastellàAntoni,Antoni Castellà i Clavè,,M,1970-06-26,JuntsPelSí,member,DC,2015-10-26,,XI
+VergèsAlba,Alba Vergès i Bosch,,F,1978-09-03,JuntsPelSí,member,ERC,2015-10-26,,XI
+FiguerasAnna,Anna Figueras i Ibañez,,F,1905-05-22,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+BonvehíDavid,David Bonvehí i Torras,,M,1905-06-01,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+SanglasMarc,Marc Sanglas i Alcantarilla,,M,1971-10-23,JuntsPelSí,member,ERC,2015-10-26,,XI
+CandiniMontserrat,Montserrat Candini i Puig,,F,1957-09-04,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+CasamitjanaMagdalena,Magdalena Casamitjana i Aguilà,,F,1963-01-27,JuntsPelSí,member,MES,2015-10-26,,XI
+SenserrichMaria,Maria Senserrich i Guitart,,F,1905-06-02,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+RamonJoan,Joan Ramon Casals i Mata,,M,1974-08-02,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+GomézGerard,Gerard Goméz del Moral i Fuster,,M,1989-10-17,JuntsPelSí,member,ERC,2015-10-26,,XI
+CuminalJordi,Jordi Cuminal i Roquet,,M,1977-02-23,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+BelGermà,Germà Bel Queralt,,M,1963-03-15,JuntsPelSí,member,Independent,2015-10-26,,XI
+PalauMontserrat,Montserrat Palau Vergès,,F,1905-05-11,JuntsPelSí,member,Independent,2015-10-26,,XI
+BatetAlbert,Albert Batet Canadell,,M,1979-03-05,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+CivitFerran,Ferran Civit Martí,,M,1905-05-30,JuntsPelSí,member,ERC,2015-10-26,,XI
+VilellaMontserrat,Montserrat Vilella Cuadrada,,F,1905-05-19,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+SalvadóJosep,Josep Lluís Salvadó Tenesa,,M,1969-03-27,JuntsPelSí,member,ERC,2015-10-26,2016-01-21,XI
+SendraJordi,Jordi Miquel Sendra Vellvè,,M,1961-11-15,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+RoigèMeritxell,Meritxell Roigè Pedrola,,F,1976-01-15,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+VallverdúTeresa,Teresa Vallverdú Albornà,,F,1968-02-02,JuntsPelSí,member,ERC,2015-10-26,,XI
+LlachLluís,Lluís Llach i Grande,,M,1948-05-07,JuntsPelSí,member,Independent,2015-10-26,,XI
+CaulaAnna,Anna Caula i Paretas,,F,1971-04-06,JuntsPelSí,member,Independent,2015-10-26,,XI
+PuigdemontCarles,Carles Puigdemont i Casamajò,,M,1962-12-29,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+TorrentRoger,Roger Torrent i Ramió,,M,1979-07-19,JuntsPelSí,member,ERC,2015-10-26,,"XI, XII"
+FiguerasNatàlia,Natàlia Figueras i Pagès,,F,1989-02-07,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+BassaDolors,Dolors Bassa i Coll,,F,1959-02-02,JuntsPelSí,member,ERC,2015-10-26,,XI
+GuinóLluís,Lluís Guinó i Subirós,,M,1969-05-29,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+MunellJordi,Jordi Munell i Garcia,,M,1965-11-17,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+SabriàSergi,Sergi Sabrià i Benito,,M,1975-07-02,JuntsPelSí,member,ERC,2015-10-26,,XI
+RovirolaMaria,Maria Dolors Rovirola i Coromí,,F,1905-05-13,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+OrobitgJordi,Jordi Orobitg i Solè,,M,1966-10-15,JuntsPelSí,member,ERC,2015-10-26,,XI
+FornèJosep,Josep Maria Fornè i Febrer,,M,1905-05-15,JuntsPelSí,member,Independent,2015-10-26,,XI
+CastellvíCarmina,Carmina Castellví i Vallverdú,,F,1905-05-20,JuntsPelSí,member,Independent,2015-10-26,,XI
+SoléBernat,Bernat Solé i Barril,,M,1975-01-30,JuntsPelSí,member,ERC,2015-10-26,,XI
+CerveraViolant,Violant Cervera i Gòdia,,F,1969-06-13,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+FornellsMontserrat,Montserrat Fornells i Solè,,F,1905-06-05,JuntsPelSí,member,ERC,2015-10-26,,XI
+SolsonaMarc,Marc Solsona i Aixalà,,M,1976-04-07,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+BalaschAntoni,Antoni Balasch i Parisi,,M,1958-11-02,JuntsPelSí,member,PDECAT,2015-10-26,,XI
+RodriguezDavid,David Rodriguez i González,,M,1967-11-08,JuntsPelSí,member,ERC,2015-10-26,,XI
+MohedanoFabian,Fabian Mohedano i Morales,,M,1905-05-28,JuntsPelSí,member,Avancem,2016-01-20,,XI
+RosellMaria,Maria Assumpta Rosell i Medall,,F,1905-05-12,JuntsPelSí,member,PDECAT,2016-01-28,,XI
+LaïllaAssumpció,Assumpció Laïlla i Jou,,F,1975-10-03,JuntsPelSí,member,DC,2016-02-16,,XI
+DelgadoAdriana,Adriana Delgado i Herreros,,F,1905-05-31,JuntsPelSí,member,ERC,2016-02-24,,XI
+PratsCarles,Carles Prats i Cot,,M,1905-05-24,JuntsPelSí,member,DC,2026-02-02,,XI
+ArrimadasInés,Inés Arrimadas García,,F,1981-07-03,C's,member,C's,2015-10-26,,XI
+SierraSonia,Sonia Sierra Infante,,F,1973-04-22,C's,member,C's,2015-10-26,,XI
+EspinosaAntonio,Antonio Espinosa Cerrato,,M,1905-05-12,C's,member,C's,2015-10-26,,XI
+HervíasFran,Fran Hervías Chirosa,,M,1983-09-28,C's,member,C's,2015-10-26,2016-01-11,XI
+BeltránSusana,Susana Beltrán Garcia,,F,1905-05-19,C's,member,Independent,2015-10-26,,XI
+MejíaDavid,David Mejía Ayra,,M,1905-06-06,C's,member,C's,2015-10-26,,XI
+BravoMarina,Marina Bravo Sobrino,,F,1905-05-31,C's,member,Independent,2015-10-26,,XI
+GarcíaJoan,Joan García González,,M,1905-05-28,C's,member,C's,2015-10-26,,XI
+GalianoJesús,Jesús Galiano Gutierrez,,M,1905-05-04,C's,member,C's,2015-10-26,2016-03-15,XI
+ValleMaria,Maria Francisca Valle Fuentes,,F,1905-05-17,C's,member,C's,2015-10-26,,XI
+DelaCalleNoemí,Noemí de la Calle Sifré,,F,1905-06-01,C's,member,C's,2015-10-26,,XI
+SanzSergi,Sergi Sanz Jiménez,,M,1905-06-04,C's,member,C's,2015-10-26,,XI
+DeRiveraCarmen,Carmen de Rivera Pla,,F,1956-04-18,C's,member,C's,2015-10-26,,XI
+VílchezLaura,Laura Vílchez Sánchez,,F,1905-06-01,C's,member,C's,2015-10-26,,XI
+ValenciaElisabeth,Elisabeth Valencia Mimbrero,,F,1905-06-02,C's,member,C's,2015-10-26,,XI
+BarraMartin,Martin Eusebio Barra López,,M,1905-05-09,C's,member,C's,2015-10-26,,XI
+CastelJean,Jean Castel Sucarrat,,M,1966-03-18,C's,member,C's,2015-10-26,,XI
+SánchezAlfonso,Alfonso Sánchez Fisac,,M,1986-05-08,C's,member,C's,2015-10-26,,XI
+SolerJorge,Jorge Soler Gonzaléz,,M,1905-05-28,C's,member,C's,2015-10-26,,XI
+RivasJavier,Javier Rivas Escamilla,,M,1905-05-16,C's,member,C's,2015-10-26,,XI
+AlonsoMatías,Matías Alonso Ruiz,,M,1952-04-08,C's,member,C's,2015-10-26,,XI
+DomínguezFrancisco,Francisco Javier Domínguez Serrano,,M,1905-05-21,C's,member,C's,2015-10-26,,XI
+SánchezCarlos,Carlos Sánchez Martin,,M,1905-06-02,C's,member,C's,2015-10-26,,XI
+RoldánLorena,Lorena Roldán Suárez,,F,1981-08-07,C's,member,C's,2015-10-26,,XI
+IcetaMiquel,Miquel Iceta i Llorens,,M,1960-08-17,PSC,member,PSOE,2015-10-26,,XI
+RomeroAlícia,Alícia Romero Llano,,F,1976-06-20,PSC,member,PSOE,2015-10-26,,XI
+TerradesJordi,Jordi Terrades i Santacreu,,M,1957-01-26,PSC,member,PSOE,2015-10-26,,XI
+EscarpAssumpta,Assumpta Escarp Gibert,,F,1905-05-10,PSC,member,PSOE,2015-10-26,,XI
+NiubóEsther,Esther Niubó Cindoncha,,F,1980-10-01,PSC,member,PSOE,2015-10-26,,XI
+GibertPol,Pol Gibert Horcas,,M,1987-04-04,PSC,member,PSOE,2015-10-26,,XI
+MoretaMarta,Marta Moreta Rovira,,F,1969-01-20,PSC,member,PSOE,2015-10-26,,XI
+MorenoRaúl,Raúl Moreno Montaña,,M,1978-12-20,PSC,member,PSOE,2015-10-26,,XI
+MartínezEva,Eva Maria Martínez Morales,,F,1976-07-26,PSC,member,PSOE,2015-10-26,,XI
+BrugueraRafel,Rafel Bruguera Batalla,,M,1956-10-11,PSC,member,PSOE,2015-10-26,,XI
+OrdeigÒscar,Òscar Ordeig Molist,,M,1978-03-14,PSC,member,PSOE,2015-10-26,,XI
+CastilloCarlos,Carlos Castillo Rosique,,M,1905-05-28,PSC,member,PSOE,2015-10-26,,XI
+IbarraRosa,Rosa M. Ibarra Ollé,,F,1969-07-26,PSC,member,PSOE,2015-10-26,,XI
+FrancoJosep,Josep Lluís Franco Rabell,,M,1954-02-17,CSQP,member,Independent,2015-10-26,,XI
+MartínezÀngels,Àngels Martínez i Castells,,F,1948-05-09,CSQP,member,EUiA,2015-10-26,,XI
+AlbiachJèssica,Jèssica Albiach Satorres,,F,1979-05-29,CSQP,member,Podemos,2015-10-26,,XI
+GinerJoan,Joan Giner Miguelez,,M,1989-07-26,CSQP,member,,2015-10-26,,XI
+RibasMarta,Marta Ribas Frías,,F,1905-05-28,CSQP,member,ICV,2015-10-26,,XI
+VidalMarc,Marc Vidal i Pou,,M,1905-05-07,CSQP,member,ICV,2015-10-26,,XI
+BargallóGerard,Gerard Bargalló Voivin,,M,1977-12-02,CSQP,member,,2015-10-26,2015-11-30,XI
+GrauHortènsia,Hortènsia Grau Juan,,F,1905-05-13,CSQP,member,ICV,2015-11-06,,XI
+GarcíaXavier,Xavier García Albiol,,M,1967-12-08,PP,member,PP,2015-10-26,,XI
+LevyAndrea,Andrea Levy Soler,,F,1984-05-03,PP,member,PP,2015-10-26,,XI
+GallegoAntonio,Antonio Gallego Burgos,,M,1975-10-02,PP,member,PP,2015-10-26,,XI
+GarcíaEsperanza,Esperanza García González,,F,1905-05-28,PP,member,PP,2015-10-26,,XI
+VillagrasaAlberto,Alberto Villagrasa Gil,,M,1905-05-24,PP,member,PP,2015-10-26,,XI
+GarcíaMJose,Mª José García Cuevas,,F,1964-03-18,PP,member,PP,2015-10-26,,XI
+MilllanJuan,Juan Millan Querol,,M,1981-08-27,PP,member,PP,2015-10-26,,XI
+XandriMarisa,Marisa Xandri Pujol,,F,1973-12-09,PP,member,PP,2015-10-26,,XI
+FernándezAlejandro,Alejandro Fernández Álvarez,,M,1976-05-30,PP,member,PP,2015-10-26,,XI
+BañosAntonio,Antonio Baños Boncompain,,M,1967-04-18,CUP,member,Independent,2015-10-26,2016-01-12,XI
+BusquetaJosep,Josep Manel Busqueta i Franco,,M,1905-05-26,CUP,member,CUP,2015-10-26,2016-01-12,XI
+SerraMaria,Maria Gabriela Serra i Frediani,,F,1951-12-18,CUP,member,Independent,2015-10-26,,XI
+DeJòdarJulià,Julià de Jòdar i Muñoz,,M,1942-12-28,CUP,member,Independent,2015-10-26,2016-01-11,XI
+GarrigaJoan,Joan Garriga i Quadres,,M,1905-05-06,CUP,member,CUP,2016-01-19,,XI
+VehíMireia,Mireia Vehí i Cantenys,,F,1985-02-09,CUP,member,CUP,2016-01-19,,XI
+CastillejoPilar,Pilar Castillejo i Medina,,F,1905-05-22,CUP,member,CUP,2016-02-16,2016-10-14,XI
+RieraCarles,Carles Riera i Albert,,M,1905-05-13,CUP,member,CUP,2016-10-26,,XI
+SafontXavier,Xavier Safont-Tria i Ramon,,M,1905-05-22,CUP,member,CUP,2017-10-24,,XI
+SalellasBenet,Benet Salellas i Vilar,,F,1905-05-30,CUP,member,CUP,2015-10-26,,XI
+UsallRamon,Ramon Usall i Santa,,M,1977-12-03,CUP,member,Independent,2015-10-26,2016-01-11,XI
+BoyaMireia,Mireia Boya e Busquet,,F,1979-11-28,CUP,member,CUP,2016-01-19,,XI
+SaladiéSergi,Sergi Saladié i Gil,,M,1905-05-27,CUP,member,Independent,2015-10-26,,XI
+TorrentRoger,Roger Torrent i Ramió,,M,1979-07-19,ERC,chairperson,ERC,2018-01-17,,XII
+CostaJosep,Josep Costa i Rosselló,,M,,JxCAT,member,Independent,2018-01-17,,XII
+GarcíaJoan,Joan García González,,M,1905-05-28,C's,member,C's,2018-01-17,,XII
+CampdepadrósEusebi,Eusebi Campdepadrós i Pucurull,,M,1961-09-23,JxCAT,member,ERC,2018-01-17,,XII
+PérezDavid,David Pérez Ibáñez,,M,1960-12-14,PSC,member,PSOE,2018-01-17,,XII
+VílchezLaura,Laura Vílchez Sánchez,,F,1905-06-01,C's,member,C's,2018-01-17,,XII
+RibasRut,Rut Ribas i Martí ,,F,1905-06-12,ERC,member,ERC,2018-01-17,,XII
+RoldánLorena,Lorena Roldán Suárez,,F,1981-08-07,C's,member,C's,2018-01-17,,XII
+BravoMarina,Marina Bravo Sobrino,,F,1905-05-31,C's,member,C's,2018-01-17,,XII
+GeisGemma,Gemma Geis i Carreras,,F,,JxCAT,member,Independent,2018-01-17,,XII
+FornèJosep,Josep Maria Fornè i Febrer,,M,1905-05-15,JxCAT,member,Independent,2018-01-17,,XII
+CaulaAnna,Anna Caula i Paretas,,F,1971-04-06,ERC,member,Independent,2018-01-17,,XII
+JovéJosep,Josep Maria Jové i Lladó,,M,1905-06-01,ERC,member,ERC,2018-01-17,,XII
+GranadosEva,Eva Maria Granados Galiano,,F,1975-01-06,PSC,member,PSOE,2018-01-17,,XII
+PedretFerran,Ferran Pedret i Santos,,M,1979-08-18,PSC,member,PSOE,2018-01-17,,XII
+SegoviaSusana,Susana Segovia Sánchez,,F,1905-05-26,CatenCumú-PODEM,member,CatenCumú-PODEM,2018-01-17,,XII
+RibasMarta,Marta Ribas Frías,,F,1905-05-28,CatenCumú-PODEM,member,CatenCumú-PODEM,2018-01-17,,XII
+RieraCarles,Carles Riera i Albert,,M,1905-05-13,CUP,member,CUP,2018-01-17,,XII
+FernándezAlejandro,Alejandro Fernández Álvarez,,M,1976-05-30,PP,member,PP,2018-01-17,,XII
+ArrimadasInés,Inés Arrimadas,,F,1981-07-03,C's,member,C's,2018-01-17,,XII
+CarrizosaCarlos,Carlos Carrizosa Torres,,M,1964-03-22,C's,member,C's,2018-01-17,,XII
+Espejo-Saavedra,José María Espejo Saavedra Conesa,,M,1976-07-20,C's,member,C's,2018-01-17,2019-05-20,XII
+DePáramoFernando,Fernando de Páramo Goméz,,M,1987-11-25,C's,member,C's,2018-01-17,2018-07-31,XII
+SierraSonia,Sonia Sierra Infante,,F,1973-04-22,C's,member,C's,2018-01-17,,XII
+MartínIgnacio,Ignacio Martín Blanco,,M,1982-08-02,C's,member,C's,2018-01-17,,XII
+MejíaDavid,David Mejía Ayra,,M,1905-06-06,C's,member,C's,2018-01-17,,XII
+DelaCalleNoemí,Noemí de la Calle Sifré,,F,1905-06-01,C's,member,C's,2018-01-17,,XII
+EspinosaAntonio,Antonio Espinosa Cerrato,,M,1905-05-12,C's,member,C's,2018-01-17,,XII
+BeltránSusana,Susana Beltrán Garcia,,F,1905-05-19,C's,member,Independent,2018-01-17,,XII
+GuilarteMaria,Maria Luz Guilarte Sánchez,,F,1905-05-24,C's,member,C's,2018-01-17,2019-07-18,XII
+BarraMartin,Martin Eusebio Barra López,,M,1905-05-09,C's,member,C's,2018-01-17,,XII
+NavarroBlanca,Blanca Victoria Navarro Pacheco,,F,?,C's,member,C's,2018-01-17,,XII
+CanoJose,José María Cano Navarro,,M,1969-02-18,C's,member,C's,2018-01-17,,XII
+SanzSergi,Sergi Sanz Jiménez,,M,1905-06-04,C's,member,C's,2018-01-17,,XII
+DeRiveraCarmen,Carmen de Rivera Pla,,F,1956-04-18,C's,member,C's,2018-01-17,,XII
+ValenciaElisabeth,Elisabeth Valencia Mimbrero,,F,1905-06-02,C's,member,C's,2018-01-17,,XII
+ValleMaria,Maria Francisca Valle Fuentes,,F,1905-05-17,C's,member,C's,2018-01-17,,XII
+FernándezMunia,Munia Fernández-Jordán Celorio,,F,1905-05-25,C's,member,C's,2018-01-17,,XII
+GrageraDimas,Dimas Gragera Velaz,,M,1984-03-25,C's,member,C's,2018-01-17,,XII
+RodriguezManuel,Manuel Rodriguez de l'Hotellerie de Fallois,,M,?,C's,member,C's,2018-01-17,,XII
+PachaméMartí,Martí Pachamé Barrera,,M,?,C's,member,C's,2018-09-04,,XII
+FeijóoJorge,Jorge Feijóo,,M,?,C's,member,C's,2019-05-28,,XII
+LosadaManuel,Manuel Losada Seivane,,M,1970-08-14,C's,member,C's,2019-07-18,,XII
+EscofetMercè,Mercè Escofet Sala,,F,?,C's,member,C's,2019-05-28,,XII
+CastelJean,Jean Castel Sucarrat,,M,1966-03-18,C's,member,C's,2018-01-17,,XII
+SánchezAlfonso,Alfonso Sánchez Fisac,,M,1986-05-08,C's,member,C's,2018-01-17,,XII
+AmellòHéctor,Héctor Amellò Montiu,,M,1905-05-30,C's,member,C's,2018-01-17,,XII
+DelCaminoMaria,Maria del Camino Fernández Riol,,F,1905-05-28,C's,member,C's,2018-01-17,,XII
+SolerJorge,Jorge Soler Gonzaléz,,M,1905-05-28,C's,member,C's,2018-01-17,,XII
+RivasJavier,Javier Rivas Escamilla,,M,1905-05-16,C's,member,C's,2018-01-17,,XII
+BetranDavid,David Betran Román,,M,1989-08-26,C's,member,C's,2018-01-17,,XII
+AlonsoMatías,Matías Alonso Ruiz,,M,1952-04-08,C's,member,C's,2018-01-17,,XII
+DomínguezFrancisco,Francisco Javier Domínguez Serrano,,M,1905-05-21,C's,member,C's,2018-01-17,,XII
+SánchezCarlos,Carlos Sánchez Martin,,M,1905-06-02,C's,member,C's,2018-01-17,,XII
+FernándezMaialen,Maialen Fernández Cabezas,,F,1905-05-27,C's,member,C's,2018-01-17,,XII
+PuigdemontCarles,Carles Puigdemont i Casamajò,,M,1962-12-29,JxCAT,member,PDECAT,2018-01-17,2020-01-07,XII
+SànchezJordi,Jordi Sànchez i Picanyol,,M,1964-10-01,JxCAT,member,Independent,2018-01-17,2019-05-17,XII
+PonsetiClara,Clara Ponseti i Obiols,,F,1957-03-19,JxCAT,member,Independent,2018-01-17,2018-01-29,XII
+TurrullJordi,Jordi Turull Negre,,M,1966-09-06,JxCAT,member,PDECAT,2018-01-17,2019-05-17,XII
+BorràsLaura,Laura Borràs i Castanyer,,F,1970-10-05,JxCAT,member,Independent,2018-01-17,2019-05-20,XII
+RullJosep,Josep Rull i Andreu,,M,1968-09-02,JxCAT,member,PDECAT,2018-01-17,2019-05-17,XII
+FornJoaquim,Joaquim Forn i Chiariello,,M,1964-04-01,JxCAT,member,PDECAT,2018-01-17,2018-01-23,XII
+PujolEduard,Eduard Pujol i Bonell,,M,1969-10-13,JxCAT,member,Independent,2018-01-17,2020-10-27,XII
+MadaulaAurora,Aurora Madaula i Giménez,,F,1978-11-12,JxCAT,member,Independent,2018-01-17,,XII
+ArtadiElsa,Elsa Artadi i Vila,,F,1976-08-19,JxCAT,member,Independent,2018-01-17,,XII
+TorraJoaquim,Joaquim Torra i Pla,,M,1962-12-28,JxCAT,member,,2018-01-17,2020-01-20,XII
+FontLluís,Lluís Font i Espinós,,M,1905-05-11,JxCAT,member,Independent,2018-01-17,,XII
+RieraJosep,Josep Riera i Font,,M,1905-05-16,JxCAT,member,Independent,2018-01-17,,XII
+TarrésAnna,Anna Tarrés i Campa,,F,1967-10-19,JxCAT,member,Independent,2018-01-17,,XII
+FerrerMaria,Maria Isabel Ferrer i Àlvarez,,F,1905-05-16,JxCAT,member,Independent,2018-01-17,2018-06-08,XII
+DalmasesFrancesc,Francesc de Dalmases i Thió,,M,1905-05-23,JxCAT,member,Independent,2018-01-17,,XII
+MorralAntoni,Antoni Morral i Berenguer,,M,1957-08-26,JxCAT,member,Independent,2018-01-23,,XII
+ElGarbhiSawia,Sawia El Garbhi,,F,?,JxCAT,member,Independent,2018-01-29,,XII
+ErraAnna,Anna Erra i Solà,,F,1965-10-07,JxCAT,member,PDECAT,2018-06-19,,XII
+BuchMiquel,Miquel Buch i Moya,,M,1975-08-03,JxCAT,member,PDECAT,2019-05-28,,XII
+FortMaria,Maria Elena Fort i Cisneros,,F,1905-05-23,JxCAT,member,Independent,2019-05-25,,XII
+PuigJosep,Josep Puig i Boix,,M,1905-04-30,JxCAT,member,Independent,2019-05-28,,XII
+FreixaGlòria,Glòria Freixa i Vilardell,,F,1905-05-22,JxCAT,member,,2019-05-28,,XII
+MascarellFerran,Ferran Mascarell i Canalda,,M,1905-05-04,JxCAT,member,Independent,2020-02-04,,XII
+SenserrichMaria,Maria Senserrich i Guitart,,F,1905-06-02,JxCAT,member,PDECAT,2015-10-26,2020-11-24,XII
+VilanovaSantiago,Santiago Vilanova i Tané,,M,1947-01-09,JxCAT,member,Independent,2020-11-17,,XII
+PuigLluís,Lluís Puig i Gordi,,M,1959-10-18,JxCAT,member,PDECAT,2018-01-17,2018-01-29,XII
+MadrenasMarta,Marta Madrenas i Mir,,F,1967-11-01,JxCAT,member,PDECAT,2018-01-17,,XII
+ClaraNarcis,Narcis Clara i Lloret,,M,1905-05-13,JxCAT,member,Independent,2018-01-17,,XII
+GuinóLluís,Lluís Guinó i Subirós,,M,1969-05-29,JxCAT,member,PDECAT,2018-01-17,,XII
+MunellJordi,Jordi Munell i Garcia,,M,1965-11-17,JxCAT,member,PDECAT,2018-01-17,,XII
+TenFrancesc,Francesc Xavier Ten i Costa,,M,1968-05-15,JxCAT,member,Independent,2018-01-17,,XII
+RoquerFerran,Ferran Roquer Padrosa,,M,1967-12-06,JxCAT,member,PDECAT,2018-01-29,,XII
+SolsonaMarc,Marc Solsona i Aixalà,,M,1976-04-07,JxCAT,member,PDECAT,2018-01-17,,XII
+GallardoImma,Imma Gallardo Barceló,,F,1966-09-12,JxCAT,member,PDECAT,2018-01-17,,XII
+QuinquillàXavier,Xavier Quinquillà Durich,,M,1905-05-22,JxCAT,member,Independent,2018-01-17,,XII
+MaciàMontserrat,Montserrat Macià Gou,,F,1905-05-15,JxCAT,member,Independent,2018-01-17,,XII
+GeliAnna,Anna Geli España,,F,1905-05-31,JxCAT,member,Independent,2018-01-17,,XII
+PallarèsTeresa,Teresa Pallarès Piqué,,F,1905-05-17,JxCAT,member,Independent,2018-01-17,,XII
+BatetAlbert,Albert Batet Canadell,,M,1979-03-05,JxCAT,member,PDECAT,2018-01-17,,XII
+SalesMònica,Mònica Sales de la Cruz,,F,1983-08-27,JxCAT,member,PDECAT,2018-01-17,,XII
+RomevaRaül,Raül Romeva i Rueda,,M,1971-03-12,ERC,member,Independent,2018-01-17,2019-10-29,XII
+JunquerasOriol,Oriol Junqueras i Vies,,M,1969-04-11,ERC,member,ERC,2018-01-17,2019-05-20,XII
+ComínAntoni,Antoni Comín i Oliveres,,M,1971-03-07,ERC,member,ERC,2018-01-17,2020-01-07,XII
+VergèsAlba,Alba Vergès i Bosch,,F,1978-09-03,ERC,member,ERC,2018-01-17,2018-06-14,XII
+ForcadellCarme,Carme Forcadell i Lluís,,F,1995-05-29,ERC,member,ERC,2018-01-17,2018-03-22,XII
+RoviraMarta,Marta Rovira i Vergés,,F,1977-01-25,ERC,member,ERC,2018-01-17,2018-03-22,XII
+DiazJenn,Jenn Diaz Ruiz,,F,1988-04-25,ERC,member,Independent,2018-01-17,,XII
+WagensbergRuben,Ruben Wagensberg,,M,1986-09-10,ERC,member,Independent,2018-01-17,,XII
+DriouechNajat,Najat Driouech Ben Moussa,,F,1905-06-03,ERC,member,Independent,2018-01-17,,XII
+BaróEva,Eva Baró i Ramos,,F,1974-10-23,ERC,member,ERC,2018-01-17,2019-07-16,XII
+MaragallErnest,Ernest Maragall i Mira,,M,1943-01-05,ERC,member,MES,2018-01-17,,XII
+CastellàAntoni,Antoni Castellà i Clavè,,M,1970-06-26,ERC,member,DC,2018-01-17,,XII
+DelgadoAdriana,Adriana Delgado i Herreros,,F,1905-05-31,ERC,member,ERC,2018-01-17,,XII
+AlbertJordi,Jordi Albert i Caballero,,M,1978-02-14,ERC,member,ERC,2018-01-17,,XII
+PalacinMònica,Mònica Palacin i París,,F,1972-10-30,ERC,member,ERC,2018-01-17,,XII
+ElHomraniChakir,Chakir El Homrani Lesfar,,M,1905-06-01,ERC,member,ERC,2018-03-23,2018-06-14,XII
+SanglasMarc,Marc Sanglas i Alcantarilla,,M,1971-10-23,ERC,member,ERC,2018-06-14,,XII
+GomézGerard,Gerard Goméz del Moral i Fuster,,M,1989-10-17,ERC,member,ERC,2018-01-17,,XII
+LaïllaAssumpció,Assumpció Laïlla i Jou,,F,1975-10-03,ERC,member,DC,2018-03-23,,XII
+LlopLluïsa,Lluïsa Llop i Fernàndez,,F,1970-12-19,ERC,member,ERC,2018-06-14,,XII
+PicasNúria,Núria Picas i Albets,,F,1976-11-02,ERC,member,ERC,2019-05-28,,XII
+RodriguezJosé,José Rodriguez Fernández,,M,1905-05-29,ERC,member,ERC,2019-05-28,,XII
+CarbonellAurora,Aurora Carbonell i Abella,,F,1905-05-19,ERC,member,ERC,2019-07-25,,XII
+MetgeAlba,Alba Metge i Climent,,F,1982-10-15,ERC,member,ERC,2020-01-22,,XII
+SerretMeritxell,Meritxell Serret i Aleu,,F,1975-06-19,ERC,member,ERC,2018-01-17,2018-01-29,XII
+ReyesEduardo,Eduardo Reyes i Pino,,M,1951-04-25,ERC,member,Independent,2019-11-26,,XII
+CasamitjanaMagdalena,Magdalena Casamitjana i Aguilà,,F,1963-01-27,ERC,member,MES,2018-03-23,2018-11-30,XII
+BassaDolors,Dolors Bassa i Coll,,F,1959-02-02,ERC,member,ERC,2018-01-17,2018-03-22,XII
+SabriàSergi,Sergi Sabrià i Benito,,M,1975-07-02,ERC,member,ERC,2018-01-17,,XII
+OrobitgJordi,Jordi Orobitg i Solè,,M,1966-10-15,ERC,member,ERC,2018-12-11,,XII
+SoléBernat,Bernat Solé i Barril,,M,1975-01-30,ERC,member,ERC,2018-01-17,,XII
+EspigaresGemma,Gemma Espigares i Tribño,,M,1905-06-10,ERC,member,ERC,2018-01-17,,XII
+ViaplanaFrancesc,Francesc Viaplana i Manresa,,M,1905-06-03,ERC,member,Independent,2018-01-17,,XII
+CivitFerran,Ferran Civit Martí,,M,1905-05-30,ERC,member,ERC,2018-01-17,,XII
+SalvadóJosep,Josep Lluís Salvadó Tenesa,,M,1969-03-27,ERC,member,ERC,2018-01-17,42390,XII
+FornellsMontserrat,Montserrat Fornells i Solè,,F,1905-06-05,ERC,member,ERC,2018-01-17,,XII
+RodriguezDavid,David Rodriguez i González,,M,1967-11-08,ERC,member,ERC,2018-01-29,43363,XII
+VilaltaMarta,Marta Vilalta i Torres,,F,1984-12-03,ERC,member,ERC,2018-10-02,,XII
+PerisÒscar,Òscar Peris i Ròdenas,,M,1974-04-30,ERC,member,ERC,2018-01-17,43305,XII
+SansRaquel,Raquel Sans i Guerra,,F,1905-06-02,ERC,member,ERC,2018-10-02,,XII
+LlauradóNoemi,Noemi Llauradó i Sans,,F,1978-06-04,ERC,member,ERC,2018-01-17,,XII
+FornósIrene,Irene Fornós i Curto,,F,1980-08-17,ERC,member,ERC,2018-01-17,,XII
+SirventMaria,Maria Sirvent Escrig,,F,1905-06-09,CUP,member,CUP,2018-01-17,,XII
+AragonèsPere,Vidal Aragonés Chicharro,,M,1978-04-09,CUP,member,CUP,2018-01-17,,XII
+SànchezNatàlia,Natàlia Sànchez Dipp,,F,1905-06-05,CUP,member,CUP,2018-01-17,,XII
+GarcíaXavier,Xavier García Albiol,,M,1967-12-08,PP,member,PP,2018-01-17,43496,XII
+LevyAndrea,Andrea Levy Soler,,F,1984-05-03,PP,member,PP,2018-01-17,43594,XII
+GarcíaEsperanza,Esperanza García González,,F,1905-05-28,PP,member,PP,2019-02-06,44110,XII
+RodriguezSantiago,Santiago Rodriguez Serra,,M,1964-04-18,PP,member,PP,2018-01-17,,XII
+SerranoDaniel,Daniel Serrano Coronado,,M,1976-06-18,PP,member,PP,2019-05-15,,XII
+ReyesManuel,Manuel Reyes López,,M,1976-05-16,PP,member,PP,2020-10-13,,XII
+IcetaMiquel,Miquel Iceta i Llorens,,M,1960-08-17,PSC,member,PSOE,2018-01-17,,XII
+RomeroAlícia,Alícia Romero Llano,,F,1976-06-20,PSC,member,PSOE,2018-01-17,,XII
+TerradesJordi,Jordi Terrades i Santacreu,,M,1957-01-26,PSC,member,PSOE,2018-01-17,,XII
+EscarpAssumpta,Assumpta Escarp Gibert,,F,1905-05-10,PSC,member,PSOE,2018-01-17,,XII
+NiubóEsther,Esther Niubó Cindoncha,,F,1980-10-01,PSC,member,PSOE,2018-01-17,,XII
+GibertPol,Pol Gibert Horcas,,M,1987-04-04,PSC,member,PSOE,2018-01-17,,XII
+MoretaMarta,Marta Moreta Rovira,,F,1969-01-20,PSC,member,PSOE,2018-01-17,,XII
+MorenoRaúl,Raúl Moreno Montaña,,M,1978-12-20,PSC,member,PSOE,2018-01-17,,XII
+EspadalerRamon,Ramon Espadaler i Parcerisas,,M,1963-09-19,PSC,member,PSOE,2018-01-17,,XII
+SilvaBeatriz,Beatriz Silva Gallardo,,F,1969-09-11,PSC,member,PSOE,2018-01-17,,XII
+BrugueraRafel,Rafel Bruguera Batalla ,,M,1956-10-11,PSC,member,PSOE,2018-01-17,,XII
+OrdeigÒscar,Òscar Ordeig Molist,,M,1978-03-14,PSC,member,PSOE,2018-01-17,,XII
+CastilloCarlos,Carlos Castillo Rosique,,M,1905-05-28,PSC,member,PSOE,2018-01-17,44088,XII
+IbarraRosa,Rosa M. Ibarra Ollé,,F,1969-07-26,PSC,member,PSOE,2018-01-17,,XII
+CaballolJoan,Joan Antoni Caballol i Angelats,,M,1905-05-17,PSC,member,Units,2020-09-18,,XII
+DomènechXavier,Xavier Domènech i Sampere,,M,1974-12-02,CatenCumú-PODEM,member,CatenCumú-PODEM,2018-01-17,43355,XII
+AlamanyElisenda,Elisenda Alamany Gutiérrez,,F,1905-06-05,CatenCumú-PODEM,member,CatenCumú-PODEM,2018-01-17,43557,XII
+AlbiachJèssica,Jèssica Albiach Satorres,,F,1979-05-29,CatenCumú-PODEM,member,Podemos,2018-01-17,,XII
+NuetJoan,Joan Josep Nuet i Pujals,,M,1964-08-06,CatenCumú-PODEM,member,CatenCumú-PODEM,2018-01-17,43544,XII
+CidDavid,David Cid Colomer,,M,1905-06-02,CatenCumú-PODEM,member,CatenCumú-PODEM,2018-01-17,,XII
+FerroLucas,Lucas Silvano Ferro Solé,,M,1905-06-12,CatenCumú-PODEM,member,CatenCumú-PODEM,2018-09-26,,XII
+ParésMarc,Marc Parés Franzi,,M,1979-02-24,CatenCumú-PODEM,member,CatenCumú-PODEM,2019-03-04,,XII
+AbellánConcepción,Concepción Abellán Carretero,,F,1984-06-10,CatenCumú-PODEM,member,Podemos,2019-04-16,,XII
+LópezYolanda,Yolanda López Fernández,,F,1905-05-19,CatenCumú-PODEM,member,Podemos,2018-01-17,,XII
+MontserratAlfons,Alfons Montserrat Esteller,,,,,,,,,
+BoschAlfred,Alfred Bosch i Pascual,,,,,,,,,
+RosellóAnna,Anna Roselló i Albesa,,,,,,,,,
+BayonaAntoni,Antoni Bayona Rocamora,,,,,,,,,
+PellisaBernat,Bernat Pellisa i Sabaté,,,,,,,,,
+MundóCarles,Carles Mundó i Blanch,,,,,,,,,
+Calvet iDamià,Damià Calvet i Valera,,,,,,,,,
+MartínezDavid,David Martínez Oró,,,,,,,,,
+MilloEnric,Enric Millo i Rocher,,,,,,,,,
+CapellaEster,Ester Capella i Farré,,,,,,,,,
+GranadosEva,Eva Granados,,,,,,,,,
+SánchezFernando,Fernando Sánchez Costa,,,,,,,,,
+PedretFerran,Ferran Pedret i Ramos,,,,,,,,,
+EstevaGerard,Gerard Esteva i Viladecans,,,,,,,,,
+SalvadóLluís,J. Lluís Salvadó i Tenesa,,,,,,,,,
+AmatJaume,Jaume Amat i Reyero,,,,,,,,,
+BaigetJordi,Jordi Baiget i Cantons,,,,,,,,,
+JanéJordi,Jordi Jané i Guasch,,,,,,,,,
+PuigneróJordi,Jordi Puigneró i Ferrer,,,,,,,,,
+Bargalló VallsJosep,Josep Bargalló Valls,,,,,,,,,
+RoldánLorena,Lorena Roldán Sánchez,,,,,,,,,
+ÀngelaMaria,Maria Àngela Vilallonga Vives,,,,,,,,,
+ÀngelsMaria,Maria Àngels Chacon i Feixas,,,,,,,,,
+BorràsMeritxell,Meritxell Borràs i Solé,,,,,,,,,
+BudóMeritxell,Meritxell Budó i Pla,,,,,,,,,
+RuizMeritxell,Meritxell Ruiz i Isern,,,,,,,,,
+ÁngelMiguel,Miguel Ángel Gimeno Jubero,,,,,,,,,
+SàmperMiquel,Miquel Sàmper Rodríguez,,,,,,,,,
+PalacínMonica,Monica Palacín París,,,,,,,,,
+PinedaMontse,Montse Pineda Lorenzo,,,,,,,,,
+RibóRafael,Rafael Ribó i Massó,,,,,,,,,
+TremosaRamon,Ramon Tremosa i Balcells,,,,,,,,,
+CañadellRosa,Rosa Cañadell Pascual,,,,,,,,,
+MariaRosa,Rosa Maria Ibarra Ollé,,,,,,,,,
+LaouajiSaloua,Saloua Laouaji Faridi,,,,,,,,,
+RodríguezSanti,Santi Rodríguez i Serra,,,,,,,,,
+SerraSanti,Santi Serra i Rodríguez,,,,,,,,,
+VilaSanti,Santi Vila i Vicente,,,,,,,,,
+SantamaríaSergio,Sergio Santamaría Santigosa,,,,,,,,,
+JordàTeresa,Teresa Jordà i Roure,,,,,,,,,
+MuroXavier,Xavier Muro i Bas,,,,,,,,,
