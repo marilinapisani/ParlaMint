@@ -1,5 +1,3 @@
-import pandas as pd
-
 def p_parser(rooted):
   list_p=[]
   list_p2=[]
